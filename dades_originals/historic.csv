@@ -1,0 +1,30 @@
+identificador,titol,resum,darrera_actualitzacio_web,etiqueta,categories,frequencia_actualitzacio,data_descarrega
+elec_municipals,Eleccions Municipals,Eleccions Municipals. Resultats a la ciutat de Badalona.,29/05/2023,Eleccions,"Administració,Sector Públic",Sota Demanda,19/07/2023
+tramits,Tràmits de la ciutat de Badalona,Tràmits de la ciutat de Badalona,6/04/2023,Tràmits,"Administració,Sector Públic",Trimestral,19/07/2023
+tipus_tramit_activitat,Tipus de tràmits (llicències i comunicacions) a la ciutat de Badalona,Tipus de tràmits per iniciar una activitat (de llicències i comunicacions) a la ciutat de Badalona,6/04/2023,Llicències,"Territori,Urbanisme i infraestructures",Trimestral,19/07/2023
+entitats,Llista d’entitats de la ciutat de Badalona,Llista d’entitats de la ciutat de Badalona,6/04/2023,Entitats,"Destacats,Societat i Benestar",Trimestral,14/11/2023
+equipaments,Llista d’equipaments de la ciutat de Badalona,Llista d’equipaments de la ciutat de Badalona,5/04/2023,Equipaments,"Destacats,Territori,Urbanisme i infraestructures",Trimestral,14/11/2023
+carrerer,Carrerer de la ciutat de Badalona,Carrerer de la ciutat de Badalona,18/01/2023,Carrerer,"Destacats,Territori,Urbanisme i infraestructures",Anual,19/07/2023
+iae,IAE de la ciutat de Badalona,Impost Activitats Econòmiques per epígraf,15/07/2022,Hisenda,"Administració,Hisenda",Anual,19/07/2023
+altes_naixement_padro,Altes per naixement al padró de la ciutat de Badalona,Altes per naixement al padró de la ciutat de Badalona,11/04/2022,Naixement,"Demografia,Població",Anual,19/07/2023
+baixes_defuncio_padro,Baixes per defunció al padró de la ciutat de Badalona,Baixes per defunció al padró de la ciutat de Badalona,11/04/2022,Defunció,"Demografia,Població",Anual,19/07/2023
+poblacio_edat,Edat per grans grups d’edat de la població de la ciutat de Badalona,Edat per grans grups d’edat de la població de la ciutat de Badalona,11/04/2022,Població,"Demografia,Població",Anual,19/07/2023
+baixes_inscripcio_indeguda_padro,Baixes per inscripció indeguda al padró de la ciutat de Badalona,Baixes per inscripció indeguda al padró de la ciutat de Badalona,11/04/2022,Inscripció indeguda,"Demografia,Població",Anual,19/07/2023
+poblacio_nacionalitat,Nacionalitat de la població per divisió territorial de la ciutat de Badalona,Nacionalitat de la població per divisió territorial de la ciutat de Badalona,11/04/2022,Nacionalitats,"Demografia,Població",Anual,19/07/2023
+canvis_domicili_padro,Canvis de domicili al padró de la ciutat de Badalona,Canvis de domicili al padró de la ciutat de Badalona.,11/04/2022,Canvis de domicili,"Demografia,Població",Anual,19/07/2023
+altes_omissio_padro,Altes per omissió al padró de la ciutat de Badalona,Altes per omissió al padró de la ciutat de Badalona,11/04/2022,Omissió,"Demografia,Població",Anual,19/07/2023
+baixes_emigracio_padro,Baixes per emigració al padró de la ciutat de Badalona,Baixes per emigració al padró de la ciutat de Badalona,11/04/2022,Emigració,"Demografia,Població",Anual,19/07/2023
+estat_platges_historic,Històric de l’estat de les platges de la ciutat de Badalona,Històric de l’estat de les platges de la ciutat de Badalona,5/01/2022,Platges,"Ciutat i serveis,Medi Ambient",Anual,19/07/2023
+cens_vehicles,Cens de vehicles de la ciutat de Badalona,Cens de vehicles de la ciutat de Badalona,22/02/2021,Vehícles,"Administració,Transport",Anual,19/07/2023
+multes_barri,Multes per barris de la ciutat de Badalona,Multes per barris de la ciutat de Badalona,22/02/2021,Multes,"Administració,Hisenda",Mensual,20/07/2023
+ibi_barri,IBI per barris de la ciutat de Badalona,Impost sobre Bens Immobles de la ciutat de Badalona per barris,3/06/2020,IBI,"Administració,Hisenda",Anual,20/07/2023
+ibi_seccio,IBI per secció censal de la ciutat de Badalona,Impost sobre Bens Immobles de la ciutat de Badalona per seccions censals,3/06/2020,IBI,"Administració,Hisenda",Anual,20/07/2023
+elec_generals,Eleccions Generals,Eleccions Generals. Resultats a la ciutat de Badalona.,24/12/2019,Eleccions,"Administració,Sector Públic",Sota Demanda,14/11/2023
+elec_europees,Eleccions al Parlament Europeu,Eleccions al Parlament Europeu. Resultats a la ciutat de Badalona,24/12/2019,Eleccions,"Administració,Sector Públic",Sota Demanda,20/07/2023
+poblacio_ccaa_naixement,Població per Comunitat Autònoma de naixement i grups d’edat de la ciutat de Badalona,Població per Comunitat Autònoma de naixement i grups d’edat de la ciutat de Badalona,15/01/2018,CCAA,"Demografia,Població",Anual,20/07/2023
+bdn_barris_sgm,Barris (informació gràfica) de la ciutat de Badalona,Barris (informació gràfica) de la ciutat de Badalona,15/11/2017,Barris,"Territori,Urbanisme i infraestructures",Anual,20/07/2023
+bdn_secc_censals_sgm,Seccions censals (informació gràfica) de la ciutat de Badalona,Seccions censals (informació gràfica) de la ciutat de Badalona,15/11/2017,Seccions,"Territori,Urbanisme i infraestructures",Anual,20/07/2023
+bdn_districtescensals_sgm,Districtes censals (informació gràfica) de la ciutat de Badalona,Districtes censals (informació gràfica) de la ciutat de Badalona,15/11/2017,Districtes,"Territori,Urbanisme i infraestructures",Anual,20/07/2023
+patrimoni_historic_artistic,Patrimoni històric artístic destacat de la ciutat de Badalona,Patrimoni històric artístic destacat de la ciutat de Badalona,9/11/2017,Cultura,"Ciutat i serveis,Cultura i Oci",Anual,20/07/2023
+bdn_omd_sgm,OMD (informació gràfica) de la ciutat de Badalona,OMD (informació gràfica) de la ciutat de Badalona,7/11/2017,OMD,"Territori,Urbanisme i infraestructures",Anual,20/07/2023
+divter,Divisions territorials de la ciutat de Badalona,Divisions territorials de la ciutat de Badalona,2/11/2017,Barris,"Administració,Destacats,Sector Públic",Anual,20/07/2023

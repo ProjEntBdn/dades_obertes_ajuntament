@@ -1,0 +1,62 @@
+Country,Original_Code,ISO_3166-1_alpha-2,ISO_3166-1_numeric,Country_English,Country_Catalan
+ALBANIA,101,AL,8,Albania,Albània
+BELGICA,103,BE,56,Belgium,Bèlgica
+BULGARIA,104,BG,100,Bulgaria,Bulgària
+ESPANYA,108,ES,724,Spain,Espanya
+FRANÇA,110,FR,250,France,França
+ITALIA,115,IT,380,Italy,Itàlia
+PAISOS BAIXOS,121,NL,528,Netherlands,Països Baixos
+POLONIA,122,PL,616,Poland,Polònia
+PORTUGAL,123,PT,620,Portugal,Portugal
+GRAN BRETANYA,125,GB,826,United Kingdom,Regne Unit
+ALEMANIA,126,DE,276,Germany,Alemanya
+ROMANIA,128,RO,642,Romania,Romania
+UCRAINA,135,UA,804,Ukraine,Ucraïna
+MOLDOVA,137,MD,498,Moldova,Moldàvia 
+BIELORUSSIA,138,BY,112,Belarus,Bielorússia 
+GEORGIA,139,GE,268,Georgia,Geòrgia 
+ARMENIA,148,AM,51,Armenia,Armènia 
+RUSIA,154,RU,643,Russia,Rússia
+ARGELIA,203,DZ,12,Algeria,Algèria
+CAMERUN,208,CM,120,Cameroon,Camerun 
+EGIPTE,213,EG,818,Egypt,Egipte
+GAMBIA,216,GM,270,Gambia,Gàmbia 
+GHANA,217,GH,288,Ghana,Ghana 
+GUINEA,218,GN,324,Guinea,Guinea 
+GUINEA EQUATOR.,220,GQ,226,Equatorial Guinea,Guinea Equatorial 
+MALI,227,ML,466,Mali,Mali 
+MARROC,228,MA,504,Morocco,Marroc
+MAURITANIA,230,MR,478,Mauritania,Mauritània 
+NIGERIA,234,NG,566,Nigeria,Nigèria
+SENEGAL,239,SN,686,Senegal,Senegal
+ESTATS UNITS,302,US,840,United States,Estats Units
+MEXIC,303,MX,484,Mexico,Mèxic
+CUBA,315,CU,192,Cuba,Cuba 
+EL SALVADOR,317,SV,222,El Salvador,El Salvador 
+GUATEMALA,319,GT,320,Guatemala,Guatemala 
+HONDURAS,321,HN,340,Honduras,Hondures 
+NICARAGUA,323,NI,558,Nicaragua,Nicaràgua 
+REP. DOMINICANA,326,DO,214,Dominican Republic,República Dominicana 
+ARGENTINA,340,AR,32,Argentina,Argentina
+BOLIVIA,341,BO,68,Bolivia,Bolívia 
+BRASIL,342,BR,76,Brazil,Brasil
+COLOMBIA,343,CO,170,Colombia,Colòmbia
+CHILE,344,CL,152,Chile,Xile
+ECUADOR,345,EC,218,Ecuador,Equador 
+PARAGUAI,347,PY,600,Paraguay,Paraguai 
+PERU,348,PE,604,Peru,Perú
+URUGUAI,350,UY,858,Uruguay,Uruguai 
+VENEZUELA,351,VE,862,Venezuela,Veneçuela 
+BANGLADESH,404,BD,50,Bangladesh,Bangla Desh 
+XINA,407,CN,156,China,Xina
+FILIPINES,409,PH,608,Philippines,Filipines 
+INDIA,410,IN,356,India,Índia
+IRAN,413,IR,364,Iran,Iran
+JAPO,415,JP,392,Japan,Japó
+NEPAL,424,NP,524,Nepal,Nepal
+PAKISTAN,426,PK,586,Pakistan,Pakistan
+SIRIA,433,SY,760,Syria,Síria
+VIETNAM,437,VN,704,Vietnam,Vietnam
+UZBEKISTAN,447,UZ,860,Uzbekistan,Uzbekistan
+APATRIDES,555,OT,9998,Apatrides,Apatrides
+ALTRES,9999,OT,9999,Others,Altres

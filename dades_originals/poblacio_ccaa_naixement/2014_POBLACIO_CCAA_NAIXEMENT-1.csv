@@ -1,0 +1,647 @@
+﻿CODI_DIVISIO_TERRITORIAL;BARRI;COMUNITAT_AUTONOMA;ZERO_14ANYS;DE_15_24ANYS;DE_25_44ANYS;DE_45_64ANYS;DE_65ANYS_I_MES;TOTAL
+B-01;Centre;Andalusia;1;0;30;147;152;330
+B-01;Centre;Aragó;1;0;6;24;43;74
+B-01;Centre;Astúries (Principat d );0;2;4;6;1;13
+B-01;Centre;Balears (Illes);1;1;5;1;3;11
+B-01;Centre;Canàries;0;0;2;1;1;4
+B-01;Centre;Cantàbria;0;0;1;0;3;4
+B-01;Centre;Castella-la Manxa;0;0;3;25;32;60
+B-01;Centre;Castella-Lleó;1;0;13;37;35;86
+B-01;Centre;Catalunya;902;674;1785;1868;1537;6766
+B-01;Centre;Ceuta-Melilla;0;0;2;3;1;6
+B-01;Centre;Comunitat Valenciana;0;1;5;20;41;67
+B-01;Centre;estranger;68;68;319;152;37;644
+B-01;Centre;Extremadura;0;0;3;18;24;45
+B-01;Centre;Galícia;0;0;8;6;20;34
+B-01;Centre;Madrid (Comunitat de);0;0;15;9;16;40
+B-01;Centre;Múrcia (Regió de);0;0;3;7;44;54
+B-01;Centre;Navarra (Comunitat Foral de);0;0;5;1;4;10
+B-01;Centre;País Basc;1;1;10;4;2;18
+B-01;Centre;Rioja (La);0;0;0;2;5;7
+B-02;Coll I Pujol;Andalusia;1;1;9;105;90;206
+B-02;Coll I Pujol;Aragó;0;0;1;10;11;22
+B-02;Coll I Pujol;Astúries (Principat d );0;0;1;0;2;3
+B-02;Coll I Pujol;Balears (Illes);0;0;0;0;0;0
+B-02;Coll I Pujol;Canàries;0;0;1;1;0;2
+B-02;Coll I Pujol;Cantàbria;0;0;0;2;2;4
+B-02;Coll I Pujol;Castella-la Manxa;0;0;4;12;15;31
+B-02;Coll I Pujol;Castella-Lleó;0;1;3;24;11;39
+B-02;Coll I Pujol;Catalunya;371;271;637;603;333;2215
+B-02;Coll I Pujol;Ceuta-Melilla;0;0;0;6;1;7
+B-02;Coll I Pujol;Comunitat Valenciana;0;0;9;8;10;27
+B-02;Coll I Pujol;estranger;25;27;139;50;17;258
+B-02;Coll I Pujol;Extremadura;0;0;1;19;8;28
+B-02;Coll I Pujol;Galícia;2;0;3;6;15;26
+B-02;Coll I Pujol;Madrid (Comunitat de);0;0;6;4;2;12
+B-02;Coll I Pujol;Múrcia (Regió de);0;0;2;9;24;35
+B-02;Coll I Pujol;Navarra (Comunitat Foral de);0;0;0;2;1;3
+B-02;Coll I Pujol;País Basc;0;0;5;2;0;7
+B-02;Coll I Pujol;Rioja (La);0;1;0;1;1;3
+B-03;Dalt De La Vila;Andalusia;0;0;16;88;127;231
+B-03;Dalt De La Vila;Aragó;1;1;7;20;23;52
+B-03;Dalt De La Vila;Astúries (Principat d );0;0;1;2;2;5
+B-03;Dalt De La Vila;Balears (Illes);0;0;4;2;4;10
+B-03;Dalt De La Vila;Canàries;0;0;0;0;2;2
+B-03;Dalt De La Vila;Cantàbria;0;0;0;1;3;4
+B-03;Dalt De La Vila;Castella-la Manxa;0;0;0;13;16;29
+B-03;Dalt De La Vila;Castella-Lleó;0;0;3;25;23;51
+B-03;Dalt De La Vila;Catalunya;552;351;916;825;606;3250
+B-03;Dalt De La Vila;Ceuta-Melilla;0;0;2;5;4;11
+B-03;Dalt De La Vila;Comunitat Valenciana;0;0;4;11;18;33
+B-03;Dalt De La Vila;estranger;26;27;165;68;20;306
+B-03;Dalt De La Vila;Extremadura;0;0;1;15;13;29
+B-03;Dalt De La Vila;Galícia;0;0;5;10;14;29
+B-03;Dalt De La Vila;Madrid (Comunitat de);1;2;4;7;9;23
+B-03;Dalt De La Vila;Múrcia (Regió de);0;0;0;8;43;51
+B-03;Dalt De La Vila;Navarra (Comunitat Foral de);0;0;0;3;2;5
+B-03;Dalt De La Vila;País Basc;2;0;4;4;1;11
+B-03;Dalt De La Vila;Rioja (La);0;0;1;1;3;5
+B-04;Gorg;Andalusia;2;1;28;286;329;646
+B-04;Gorg;Aragó;0;0;9;18;23;50
+B-04;Gorg;Astúries (Principat d );0;0;1;1;4;6
+B-04;Gorg;Balears (Illes);0;1;1;1;1;4
+B-04;Gorg;Canàries;0;0;1;1;1;3
+B-04;Gorg;Cantàbria;0;0;0;3;3;6
+B-04;Gorg;Castella-la Manxa;0;0;4;32;48;84
+B-04;Gorg;Castella-Lleó;0;1;10;36;37;84
+B-04;Gorg;Catalunya;807;347;1307;773;347;3581
+B-04;Gorg;Ceuta-Melilla;0;1;1;5;5;12
+B-04;Gorg;Comunitat Valenciana;0;1;11;13;14;39
+B-04;Gorg;estranger;81;122;525;205;33;966
+B-04;Gorg;Extremadura;0;0;6;59;51;116
+B-04;Gorg;Galícia;0;0;7;11;16;34
+B-04;Gorg;Madrid (Comunitat de);1;2;5;13;5;26
+B-04;Gorg;Múrcia (Regió de);0;0;5;29;84;118
+B-04;Gorg;Navarra (Comunitat Foral de);1;0;1;2;0;4
+B-04;Gorg;País Basc;0;0;4;2;2;8
+B-04;Gorg;Rioja (La);0;0;0;1;1;2
+B-05;Progrés;Andalusia;3;4;48;318;285;658
+B-05;Progrés;Aragó;0;1;17;29;44;91
+B-05;Progrés;Astúries (Principat d );2;1;10;7;2;22
+B-05;Progrés;Balears (Illes);2;0;4;5;0;11
+B-05;Progrés;Canàries;1;0;3;6;2;12
+B-05;Progrés;Cantàbria;0;0;3;3;4;10
+B-05;Progrés;Castella-la Manxa;0;0;8;49;47;104
+B-05;Progrés;Castella-Lleó;1;1;20;58;58;138
+B-05;Progrés;Catalunya;1744;758;2877;1896;1091;8366
+B-05;Progrés;Ceuta-Melilla;0;0;5;8;9;22
+B-05;Progrés;Comunitat Valenciana;4;2;19;32;53;110
+B-05;Progrés;estranger;84;123;624;256;54;1141
+B-05;Progrés;Extremadura;0;0;17;58;39;114
+B-05;Progrés;Galícia;0;0;12;26;23;61
+B-05;Progrés;Madrid (Comunitat de);0;3;21;17;6;47
+B-05;Progrés;Múrcia (Regió de);0;0;4;32;79;115
+B-05;Progrés;Navarra (Comunitat Foral de);0;0;4;4;3;11
+B-05;Progrés;País Basc;1;1;22;4;1;29
+B-05;Progrés;Rioja (La);0;1;4;1;4;10
+B-06;Raval;Andalusia;6;4;51;354;400;815
+B-06;Raval;Aragó;1;3;9;42;74;129
+B-06;Raval;Astúries (Principat d );0;0;2;7;3;12
+B-06;Raval;Balears (Illes);3;1;5;4;3;16
+B-06;Raval;Canàries;0;0;4;3;5;12
+B-06;Raval;Cantàbria;0;0;2;1;1;4
+B-06;Raval;Castella-la Manxa;0;0;3;61;83;147
+B-06;Raval;Castella-Lleó;0;4;25;88;75;192
+B-06;Raval;Catalunya;1204;582;2034;1353;643;5816
+B-06;Raval;Ceuta-Melilla;0;0;1;12;6;19
+B-06;Raval;Comunitat Valenciana;1;1;17;22;42;83
+B-06;Raval;estranger;116;188;725;280;45;1354
+B-06;Raval;Extremadura;0;0;7;101;69;177
+B-06;Raval;Galícia;0;1;8;32;20;61
+B-06;Raval;Madrid (Comunitat de);2;3;12;8;6;31
+B-06;Raval;Múrcia (Regió de);0;0;1;45;90;136
+B-06;Raval;Navarra (Comunitat Foral de);0;0;1;3;2;6
+B-06;Raval;País Basc;0;0;9;7;1;17
+B-06;Raval;Rioja (La);1;0;1;1;4;7
+B-07;Can Claris;Andalusia;0;1;12;182;166;361
+B-07;Can Claris;Aragó;1;0;1;10;9;21
+B-07;Can Claris;Astúries (Principat d );0;0;1;1;3;5
+B-07;Can Claris;Balears (Illes);0;0;1;1;0;2
+B-07;Can Claris;Canàries;0;0;0;0;0;0
+B-07;Can Claris;Cantàbria;0;0;1;0;2;3
+B-07;Can Claris;Castella-la Manxa;0;0;1;35;23;59
+B-07;Can Claris;Castella-Lleó;0;0;7;43;28;78
+B-07;Can Claris;Catalunya;377;214;602;426;90;1709
+B-07;Can Claris;Ceuta-Melilla;0;1;0;2;1;4
+B-07;Can Claris;Comunitat Valenciana;1;0;3;8;8;20
+B-07;Can Claris;estranger;19;37;143;69;10;278
+B-07;Can Claris;Extremadura;0;0;4;45;36;85
+B-07;Can Claris;Galícia;1;0;2;15;16;34
+B-07;Can Claris;Madrid (Comunitat de);0;0;5;2;1;8
+B-07;Can Claris;Múrcia (Regió de);0;0;0;16;26;42
+B-07;Can Claris;Navarra (Comunitat Foral de);0;0;0;0;5;5
+B-07;Can Claris;País Basc;0;0;5;0;0;5
+B-07;Can Claris;Rioja (La);0;0;0;0;0;0
+B-08;Canyet;Andalusia;0;0;2;20;18;40
+B-08;Canyet;Aragó;0;0;0;1;4;5
+B-08;Canyet;Astúries (Principat d );0;0;0;1;0;1
+B-08;Canyet;Balears (Illes);0;0;0;0;0;0
+B-08;Canyet;Canàries;0;0;0;0;0;0
+B-08;Canyet;Cantàbria;0;0;1;0;0;1
+B-08;Canyet;Castella-la Manxa;0;0;0;7;4;11
+B-08;Canyet;Castella-Lleó;0;0;0;1;4;5
+B-08;Canyet;Catalunya;75;50;100;108;90;423
+B-08;Canyet;Ceuta-Melilla;0;0;0;0;0;0
+B-08;Canyet;Comunitat Valenciana;0;0;2;3;0;5
+B-08;Canyet;estranger;1;4;17;9;1;32
+B-08;Canyet;Extremadura;0;0;0;6;2;8
+B-08;Canyet;Galícia;0;0;1;0;0;1
+B-08;Canyet;Madrid (Comunitat de);0;0;0;1;0;1
+B-08;Canyet;Múrcia (Regió de);0;0;0;0;0;0
+B-08;Canyet;Navarra (Comunitat Foral de);0;0;0;0;1;1
+B-08;Canyet;País Basc;0;0;0;0;0;0
+B-08;Canyet;Rioja (La);0;0;0;0;0;0
+B-09;Bufalà;Andalusia;15;7;99;710;587;1418
+B-09;Bufalà;Aragó;2;3;13;37;63;118
+B-09;Bufalà;Astúries (Principat d );0;0;1;7;7;15
+B-09;Bufalà;Balears (Illes);1;1;2;2;2;8
+B-09;Bufalà;Canàries;1;0;3;0;4;8
+B-09;Bufalà;Cantàbria;0;1;0;3;1;5
+B-09;Bufalà;Castella-la Manxa;2;1;16;69;99;187
+B-09;Bufalà;Castella-Lleó;1;0;19;67;74;161
+B-09;Bufalà;Catalunya;2396;1139;4066;2208;758;10567
+B-09;Bufalà;Ceuta-Melilla;0;0;0;17;6;23
+B-09;Bufalà;Comunitat Valenciana;2;1;17;23;51;94
+B-09;Bufalà;estranger;71;104;466;183;35;859
+B-09;Bufalà;Extremadura;1;0;20;133;76;230
+B-09;Bufalà;Galícia;1;0;20;58;48;127
+B-09;Bufalà;Madrid (Comunitat de);1;1;22;17;15;56
+B-09;Bufalà;Múrcia (Regió de);0;1;8;62;152;223
+B-09;Bufalà;Navarra (Comunitat Foral de);0;0;3;7;1;11
+B-09;Bufalà;País Basc;0;1;7;7;1;16
+B-09;Bufalà;Rioja (La);0;0;1;4;7;12
+B-10;Bonavista;Andalusia;3;0;14;75;69;161
+B-10;Bonavista;Aragó;0;0;1;3;1;5
+B-10;Bonavista;Astúries (Principat d );0;0;0;3;0;3
+B-10;Bonavista;Balears (Illes);0;0;0;0;0;0
+B-10;Bonavista;Canàries;0;0;0;0;2;2
+B-10;Bonavista;Cantàbria;0;0;0;0;0;0
+B-10;Bonavista;Castella-la Manxa;0;0;0;13;15;28
+B-10;Bonavista;Castella-Lleó;0;0;2;12;4;18
+B-10;Bonavista;Catalunya;218;109;365;210;52;954
+B-10;Bonavista;Ceuta-Melilla;0;0;0;1;0;1
+B-10;Bonavista;Comunitat Valenciana;0;0;1;1;3;5
+B-10;Bonavista;estranger;6;10;33;12;3;64
+B-10;Bonavista;Extremadura;0;0;4;17;14;35
+B-10;Bonavista;Galícia;0;0;2;4;3;9
+B-10;Bonavista;Madrid (Comunitat de);0;0;1;2;0;3
+B-10;Bonavista;Múrcia (Regió de);0;1;1;18;33;53
+B-10;Bonavista;Navarra (Comunitat Foral de);0;0;0;0;0;0
+B-10;Bonavista;País Basc;0;1;1;1;0;3
+B-10;Bonavista;Rioja (La);0;0;0;0;0;0
+B-11;Manresà;Andalusia;0;0;1;6;10;17
+B-11;Manresà;Aragó;0;0;0;0;0;0
+B-11;Manresà;Astúries (Principat d );0;0;0;0;0;0
+B-11;Manresà;Balears (Illes);0;0;0;1;0;1
+B-11;Manresà;Canàries;0;0;0;0;0;0
+B-11;Manresà;Cantàbria;0;0;0;0;0;0
+B-11;Manresà;Castella-la Manxa;0;0;0;0;0;0
+B-11;Manresà;Castella-Lleó;0;0;0;0;0;0
+B-11;Manresà;Catalunya;50;15;88;53;63;269
+B-11;Manresà;Ceuta-Melilla;0;0;0;0;1;1
+B-11;Manresà;Comunitat Valenciana;0;0;1;0;0;1
+B-11;Manresà;estranger;4;1;24;7;2;38
+B-11;Manresà;Extremadura;0;0;0;0;2;2
+B-11;Manresà;Galícia;0;0;0;0;0;0
+B-11;Manresà;Madrid (Comunitat de);0;0;1;0;1;2
+B-11;Manresà;Múrcia (Regió de);0;0;0;0;6;6
+B-11;Manresà;Navarra (Comunitat Foral de);0;0;0;0;0;0
+B-11;Manresà;País Basc;0;0;0;0;0;0
+B-11;Manresà;Rioja (La);0;0;0;0;0;0
+B-12;Canyadó;Andalusia;1;1;15;172;185;374
+B-12;Canyadó;Aragó;1;0;2;8;15;26
+B-12;Canyadó;Astúries (Principat d );0;0;0;3;0;3
+B-12;Canyadó;Balears (Illes);0;0;1;1;1;3
+B-12;Canyadó;Canàries;0;1;1;1;1;4
+B-12;Canyadó;Cantàbria;0;0;0;2;1;3
+B-12;Canyadó;Castella-la Manxa;0;0;3;28;40;71
+B-12;Canyadó;Castella-Lleó;0;0;7;12;21;40
+B-12;Canyadó;Catalunya;396;186;819;385;241;2027
+B-12;Canyadó;Ceuta-Melilla;0;0;0;2;3;5
+B-12;Canyadó;Comunitat Valenciana;2;0;4;5;12;23
+B-12;Canyadó;estranger;22;31;126;51;11;241
+B-12;Canyadó;Extremadura;0;1;2;35;29;67
+B-12;Canyadó;Galícia;0;0;5;4;7;16
+B-12;Canyadó;Madrid (Comunitat de);0;1;4;7;3;15
+B-12;Canyadó;Múrcia (Regió de);1;0;2;11;34;48
+B-12;Canyadó;Navarra (Comunitat Foral de);0;0;0;1;0;1
+B-12;Canyadó;País Basc;0;0;3;3;1;7
+B-12;Canyadó;Rioja (La);0;0;0;1;0;1
+B-13;Casagemes;Andalusia;4;2;16;209;171;402
+B-13;Casagemes;Aragó;0;0;10;15;39;64
+B-13;Casagemes;Astúries (Principat d );1;0;2;1;1;5
+B-13;Casagemes;Balears (Illes);0;1;1;3;3;8
+B-13;Casagemes;Canàries;0;1;3;0;4;8
+B-13;Casagemes;Cantàbria;0;0;1;2;2;5
+B-13;Casagemes;Castella-la Manxa;0;0;6;33;19;58
+B-13;Casagemes;Castella-Lleó;1;0;9;28;31;69
+B-13;Casagemes;Catalunya;1159;597;1826;1604;1049;6235
+B-13;Casagemes;Ceuta-Melilla;0;1;0;7;4;12
+B-13;Casagemes;Comunitat Valenciana;1;1;9;17;28;56
+B-13;Casagemes;estranger;69;74;220;117;29;509
+B-13;Casagemes;Extremadura;0;0;2;42;32;76
+B-13;Casagemes;Galícia;0;0;10;16;18;44
+B-13;Casagemes;Madrid (Comunitat de);0;2;15;10;6;33
+B-13;Casagemes;Múrcia (Regió de);0;1;3;21;48;73
+B-13;Casagemes;Navarra (Comunitat Foral de);1;0;4;3;5;13
+B-13;Casagemes;País Basc;0;0;8;5;3;16
+B-13;Casagemes;Rioja (La);0;0;3;1;4;8
+B-14;Les Guixeres;Andalusia;0;0;0;0;0;0
+B-14;Les Guixeres;Aragó;0;0;0;0;0;0
+B-14;Les Guixeres;Astúries (Principat d );0;0;0;0;0;0
+B-14;Les Guixeres;Balears (Illes);0;0;0;0;0;0
+B-14;Les Guixeres;Canàries;0;0;0;0;0;0
+B-14;Les Guixeres;Cantàbria;0;0;0;0;0;0
+B-14;Les Guixeres;Castella-la Manxa;0;0;0;0;0;0
+B-14;Les Guixeres;Castella-Lleó;0;0;0;0;0;0
+B-14;Les Guixeres;Catalunya;0;0;0;0;0;0
+B-14;Les Guixeres;Ceuta-Melilla;0;0;0;0;0;0
+B-14;Les Guixeres;Comunitat Valenciana;0;0;0;0;0;0
+B-14;Les Guixeres;estranger;0;0;0;0;0;0
+B-14;Les Guixeres;Extremadura;0;0;0;0;0;0
+B-14;Les Guixeres;Galícia;0;0;0;0;0;0
+B-14;Les Guixeres;Madrid (Comunitat de);0;0;0;0;0;0
+B-14;Les Guixeres;Múrcia (Regió de);0;0;0;0;0;0
+B-14;Les Guixeres;Navarra (Comunitat Foral de);0;0;0;0;0;0
+B-14;Les Guixeres;País Basc;0;0;0;0;0;0
+B-14;Les Guixeres;Rioja (La);0;0;0;0;0;0
+B-15;Pomar;Andalusia;3;5;20;269;653;950
+B-15;Pomar;Aragó;0;0;1;9;23;33
+B-15;Pomar;Astúries (Principat d );0;0;1;2;2;5
+B-15;Pomar;Balears (Illes);1;0;2;1;0;4
+B-15;Pomar;Canàries;0;0;0;1;1;2
+B-15;Pomar;Cantàbria;0;0;0;0;1;1
+B-15;Pomar;Castella-la Manxa;0;0;1;22;51;74
+B-15;Pomar;Castella-Lleó;0;0;1;15;37;53
+B-15;Pomar;Catalunya;617;399;1200;772;198;3186
+B-15;Pomar;Ceuta-Melilla;1;1;0;5;15;22
+B-15;Pomar;Comunitat Valenciana;0;0;3;5;17;25
+B-15;Pomar;estranger;10;19;92;40;15;176
+B-15;Pomar;Extremadura;0;0;7;48;57;112
+B-15;Pomar;Galícia;0;0;4;4;30;38
+B-15;Pomar;Madrid (Comunitat de);0;0;2;7;8;17
+B-15;Pomar;Múrcia (Regió de);0;4;5;16;61;86
+B-15;Pomar;Navarra (Comunitat Foral de);0;0;1;2;4;7
+B-15;Pomar;País Basc;0;0;3;0;0;3
+B-15;Pomar;Rioja (La);0;0;1;1;2;4
+B-16;Morera;Andalusia;3;2;39;333;346;723
+B-16;Morera;Aragó;1;0;5;18;20;44
+B-16;Morera;Astúries (Principat d );0;0;2;3;3;8
+B-16;Morera;Balears (Illes);0;0;3;2;1;6
+B-16;Morera;Canàries;2;0;1;2;0;5
+B-16;Morera;Cantàbria;1;0;1;1;0;3
+B-16;Morera;Castella-la Manxa;0;0;3;43;50;96
+B-16;Morera;Castella-Lleó;0;0;14;40;47;101
+B-16;Morera;Catalunya;990;506;1813;1113;421;4843
+B-16;Morera;Ceuta-Melilla;0;2;0;9;9;20
+B-16;Morera;Comunitat Valenciana;1;1;1;12;28;43
+B-16;Morera;estranger;31;57;178;84;26;376
+B-16;Morera;Extremadura;0;0;8;73;69;150
+B-16;Morera;Galícia;0;0;9;18;22;49
+B-16;Morera;Madrid (Comunitat de);1;0;10;6;6;23
+B-16;Morera;Múrcia (Regió de);0;0;6;23;62;91
+B-16;Morera;Navarra (Comunitat Foral de);0;0;1;1;2;4
+B-16;Morera;País Basc;0;1;6;2;1;10
+B-16;Morera;Rioja (La);0;0;0;1;2;3
+B-17;Mas Ram;Andalusia;0;1;4;30;28;63
+B-17;Mas Ram;Aragó;0;0;0;6;5;11
+B-17;Mas Ram;Astúries (Principat d );0;0;0;0;0;0
+B-17;Mas Ram;Balears (Illes);0;0;0;0;0;0
+B-17;Mas Ram;Canàries;0;0;0;0;1;1
+B-17;Mas Ram;Cantàbria;0;0;0;0;0;0
+B-17;Mas Ram;Castella-la Manxa;0;0;0;6;2;8
+B-17;Mas Ram;Castella-Lleó;1;0;0;11;3;15
+B-17;Mas Ram;Catalunya;58;59;83;112;67;379
+B-17;Mas Ram;Ceuta-Melilla;0;0;0;1;0;1
+B-17;Mas Ram;Comunitat Valenciana;0;0;0;3;4;7
+B-17;Mas Ram;estranger;4;3;19;16;5;47
+B-17;Mas Ram;Extremadura;0;0;1;6;1;8
+B-17;Mas Ram;Galícia;0;0;0;5;1;6
+B-17;Mas Ram;Madrid (Comunitat de);1;0;0;1;0;2
+B-17;Mas Ram;Múrcia (Regió de);0;0;0;2;6;8
+B-17;Mas Ram;Navarra (Comunitat Foral de);0;0;0;0;0;0
+B-17;Mas Ram;País Basc;0;1;3;0;0;4
+B-17;Mas Ram;Rioja (La);0;0;0;0;2;2
+B-18;Pomar De Dalt;Andalusia;0;0;2;5;4;11
+B-18;Pomar De Dalt;Aragó;0;0;0;0;0;0
+B-18;Pomar De Dalt;Astúries (Principat d );0;0;0;0;0;0
+B-18;Pomar De Dalt;Balears (Illes);0;0;0;0;0;0
+B-18;Pomar De Dalt;Canàries;0;0;0;0;0;0
+B-18;Pomar De Dalt;Cantàbria;0;0;0;0;0;0
+B-18;Pomar De Dalt;Castella-la Manxa;0;0;0;0;0;0
+B-18;Pomar De Dalt;Castella-Lleó;0;0;0;0;0;0
+B-18;Pomar De Dalt;Catalunya;3;3;22;19;6;53
+B-18;Pomar De Dalt;Ceuta-Melilla;0;0;0;0;0;0
+B-18;Pomar De Dalt;Comunitat Valenciana;0;0;0;0;0;0
+B-18;Pomar De Dalt;estranger;0;0;1;1;0;2
+B-18;Pomar De Dalt;Extremadura;0;0;0;1;0;1
+B-18;Pomar De Dalt;Galícia;0;0;0;0;0;0
+B-18;Pomar De Dalt;Madrid (Comunitat de);0;0;0;1;1;2
+B-18;Pomar De Dalt;Múrcia (Regió de);0;0;0;0;0;0
+B-18;Pomar De Dalt;Navarra (Comunitat Foral de);0;0;0;0;0;0
+B-18;Pomar De Dalt;País Basc;0;0;0;0;0;0
+B-18;Pomar De Dalt;Rioja (La);0;0;0;0;0;0
+B-19;Sant Crist De Can Cabanyes;Andalusia;9;8;83;566;783;1449
+B-19;Sant Crist De Can Cabanyes;Aragó;2;1;8;23;51;85
+B-19;Sant Crist De Can Cabanyes;Astúries (Principat d );0;1;4;5;3;13
+B-19;Sant Crist De Can Cabanyes;Balears (Illes);0;0;4;2;1;7
+B-19;Sant Crist De Can Cabanyes;Canàries;0;0;4;1;1;6
+B-19;Sant Crist De Can Cabanyes;Cantàbria;0;0;0;2;1;3
+B-19;Sant Crist De Can Cabanyes;Castella-la Manxa;1;2;8;69;132;212
+B-19;Sant Crist De Can Cabanyes;Castella-Lleó;1;3;13;110;152;279
+B-19;Sant Crist De Can Cabanyes;Catalunya;1337;599;2247;1061;485;5729
+B-19;Sant Crist De Can Cabanyes;Ceuta-Melilla;1;0;2;22;11;36
+B-19;Sant Crist De Can Cabanyes;Comunitat Valenciana;6;1;7;17;34;65
+B-19;Sant Crist De Can Cabanyes;estranger;178;300;991;362;64;1895
+B-19;Sant Crist De Can Cabanyes;Extremadura;0;0;18;123;122;263
+B-19;Sant Crist De Can Cabanyes;Galícia;0;1;14;37;48;100
+B-19;Sant Crist De Can Cabanyes;Madrid (Comunitat de);2;4;14;9;14;43
+B-19;Sant Crist De Can Cabanyes;Múrcia (Regió de);0;1;0;32;138;171
+B-19;Sant Crist De Can Cabanyes;Navarra (Comunitat Foral de);0;0;1;1;2;4
+B-19;Sant Crist De Can Cabanyes;País Basc;0;0;5;5;9;19
+B-19;Sant Crist De Can Cabanyes;Rioja (La);0;0;0;1;2;3
+B-20;Nova Lloreda;Andalusia;2;4;93;1161;685;1945
+B-20;Nova Lloreda;Aragó;0;0;9;73;34;116
+B-20;Nova Lloreda;Astúries (Principat d );0;0;6;17;6;29
+B-20;Nova Lloreda;Balears (Illes);0;2;2;2;2;8
+B-20;Nova Lloreda;Canàries;0;0;1;1;1;3
+B-20;Nova Lloreda;Cantàbria;0;0;0;1;2;3
+B-20;Nova Lloreda;Castella-la Manxa;0;1;10;169;112;292
+B-20;Nova Lloreda;Castella-Lleó;2;2;23;159;92;278
+B-20;Nova Lloreda;Catalunya;1691;1194;2862;1595;245;7587
+B-20;Nova Lloreda;Ceuta-Melilla;0;0;2;31;17;50
+B-20;Nova Lloreda;Comunitat Valenciana;0;1;10;30;26;67
+B-20;Nova Lloreda;estranger;55;70;246;153;31;555
+B-20;Nova Lloreda;Extremadura;2;0;29;277;106;414
+B-20;Nova Lloreda;Galícia;0;0;7;78;67;152
+B-20;Nova Lloreda;Madrid (Comunitat de);3;0;18;17;11;49
+B-20;Nova Lloreda;Múrcia (Regió de);2;0;5;60;70;137
+B-20;Nova Lloreda;Navarra (Comunitat Foral de);0;0;1;3;2;6
+B-20;Nova Lloreda;País Basc;0;0;9;11;0;20
+B-20;Nova Lloreda;Rioja (La);0;0;1;3;1;5
+B-21;Sistrells;Andalusia;1;3;38;382;415;839
+B-21;Sistrells;Aragó;1;0;0;6;6;13
+B-21;Sistrells;Astúries (Principat d );0;0;0;3;4;7
+B-21;Sistrells;Balears (Illes);0;0;2;0;2;4
+B-21;Sistrells;Canàries;0;0;1;0;0;1
+B-21;Sistrells;Cantàbria;0;0;0;0;1;1
+B-21;Sistrells;Castella-la Manxa;0;0;2;53;52;107
+B-21;Sistrells;Castella-Lleó;0;0;9;19;30;58
+B-21;Sistrells;Catalunya;667;322;1111;541;134;2775
+B-21;Sistrells;Ceuta-Melilla;0;0;4;9;9;22
+B-21;Sistrells;Comunitat Valenciana;0;1;4;4;18;27
+B-21;Sistrells;estranger;40;77;347;143;33;640
+B-21;Sistrells;Extremadura;0;0;10;70;48;128
+B-21;Sistrells;Galícia;1;1;9;14;19;44
+B-21;Sistrells;Madrid (Comunitat de);0;0;8;3;3;14
+B-21;Sistrells;Múrcia (Regió de);1;0;2;36;55;94
+B-21;Sistrells;Navarra (Comunitat Foral de);0;0;1;0;1;2
+B-21;Sistrells;País Basc;0;0;2;0;0;2
+B-21;Sistrells;Rioja (La);0;0;0;0;0;0
+B-22;La Salut;Andalusia;11;15;126;961;1419;2532
+B-22;La Salut;Aragó;1;3;7;32;52;95
+B-22;La Salut;Astúries (Principat d );0;0;4;7;5;16
+B-22;La Salut;Balears (Illes);1;1;4;1;1;8
+B-22;La Salut;Canàries;0;0;6;2;0;8
+B-22;La Salut;Cantàbria;0;0;0;3;1;4
+B-22;La Salut;Castella-la Manxa;10;2;14;118;200;344
+B-22;La Salut;Castella-Lleó;2;0;19;73;93;187
+B-22;La Salut;Catalunya;2793;993;3039;1396;438;8659
+B-22;La Salut;Ceuta-Melilla;3;1;6;31;25;66
+B-22;La Salut;Comunitat Valenciana;5;7;15;18;31;76
+B-22;La Salut;estranger;629;1122;3700;1204;102;6757
+B-22;La Salut;Extremadura;2;0;29;185;229;445
+B-22;La Salut;Galícia;3;0;18;58;62;141
+B-22;La Salut;Madrid (Comunitat de);13;8;21;12;9;63
+B-22;La Salut;Múrcia (Regió de);2;2;8;47;145;204
+B-22;La Salut;Navarra (Comunitat Foral de);0;2;6;2;2;12
+B-22;La Salut;País Basc;0;1;8;7;1;17
+B-22;La Salut;Rioja (La);0;0;0;2;3;5
+B-23;Lloreda;Andalusia;2;0;25;210;305;542
+B-23;Lloreda;Aragó;0;0;1;3;6;10
+B-23;Lloreda;Astúries (Principat d );0;0;2;3;0;5
+B-23;Lloreda;Balears (Illes);0;2;0;1;0;3
+B-23;Lloreda;Canàries;0;0;0;0;0;0
+B-23;Lloreda;Cantàbria;0;0;0;0;0;0
+B-23;Lloreda;Castella-la Manxa;0;0;2;18;26;46
+B-23;Lloreda;Castella-Lleó;0;0;3;15;14;32
+B-23;Lloreda;Catalunya;370;156;594;278;28;1426
+B-23;Lloreda;Ceuta-Melilla;0;0;2;2;2;6
+B-23;Lloreda;Comunitat Valenciana;2;0;6;2;6;16
+B-23;Lloreda;estranger;44;83;306;101;5;539
+B-23;Lloreda;Extremadura;0;0;3;23;34;60
+B-23;Lloreda;Galícia;0;0;1;9;3;13
+B-23;Lloreda;Madrid (Comunitat de);0;4;2;3;0;9
+B-23;Lloreda;Múrcia (Regió de);0;0;0;9;33;42
+B-23;Lloreda;Navarra (Comunitat Foral de);0;0;0;1;2;3
+B-23;Lloreda;País Basc;0;0;0;0;0;0
+B-23;Lloreda;Rioja (La);0;0;0;0;0;0
+B-24;La Pau;Andalusia;1;4;32;366;359;762
+B-24;La Pau;Aragó;0;1;1;8;6;16
+B-24;La Pau;Astúries (Principat d );0;0;1;1;0;2
+B-24;La Pau;Balears (Illes);1;0;1;0;0;2
+B-24;La Pau;Canàries;0;0;0;0;1;1
+B-24;La Pau;Cantàbria;0;0;0;0;0;0
+B-24;La Pau;Castella-la Manxa;0;0;3;29;56;88
+B-24;La Pau;Castella-Lleó;0;0;4;28;22;54
+B-24;La Pau;Catalunya;662;245;702;269;38;1916
+B-24;La Pau;Ceuta-Melilla;1;0;1;3;6;11
+B-24;La Pau;Comunitat Valenciana;0;0;3;8;6;17
+B-24;La Pau;estranger;124;250;746;277;29;1426
+B-24;La Pau;Extremadura;0;1;2;76;82;161
+B-24;La Pau;Galícia;0;0;5;10;7;22
+B-24;La Pau;Madrid (Comunitat de);2;1;5;5;5;18
+B-24;La Pau;Múrcia (Regió de);0;0;0;5;13;18
+B-24;La Pau;Navarra (Comunitat Foral de);0;0;2;0;0;2
+B-24;La Pau;País Basc;0;0;1;0;0;1
+B-24;La Pau;Rioja (La);0;0;0;0;0;0
+B-25;Puigfred;Andalusia;1;3;74;778;611;1467
+B-25;Puigfred;Aragó;0;0;7;31;21;59
+B-25;Puigfred;Astúries (Principat d );0;0;1;8;2;11
+B-25;Puigfred;Balears (Illes);1;1;1;2;0;5
+B-25;Puigfred;Canàries;1;2;0;0;0;3
+B-25;Puigfred;Cantàbria;0;0;0;2;3;5
+B-25;Puigfred;Castella-la Manxa;0;0;14;95;102;211
+B-25;Puigfred;Castella-Lleó;0;0;13;94;64;171
+B-25;Puigfred;Catalunya;1354;690;1883;926;112;4965
+B-25;Puigfred;Ceuta-Melilla;0;0;0;10;6;16
+B-25;Puigfred;Comunitat Valenciana;5;3;9;26;17;60
+B-25;Puigfred;estranger;76;120;563;166;28;953
+B-25;Puigfred;Extremadura;0;1;23;183;105;312
+B-25;Puigfred;Galícia;0;0;6;59;44;109
+B-25;Puigfred;Madrid (Comunitat de);6;3;14;20;2;45
+B-25;Puigfred;Múrcia (Regió de);1;0;4;17;43;65
+B-25;Puigfred;Navarra (Comunitat Foral de);0;1;1;4;3;9
+B-25;Puigfred;País Basc;2;0;4;8;0;14
+B-25;Puigfred;Rioja (La);0;0;0;1;3;4
+B-26;Montigalà;Andalusia;0;4;86;506;192;788
+B-26;Montigalà;Aragó;1;0;6;32;13;52
+B-26;Montigalà;Astúries (Principat d );0;0;6;5;0;11
+B-26;Montigalà;Balears (Illes);0;0;5;1;0;6
+B-26;Montigalà;Canàries;0;0;0;1;0;1
+B-26;Montigalà;Cantàbria;0;0;1;1;1;3
+B-26;Montigalà;Castella-la Manxa;0;0;8;72;31;111
+B-26;Montigalà;Castella-Lleó;0;1;15;67;29;112
+B-26;Montigalà;Catalunya;1513;776;1979;1097;92;5457
+B-26;Montigalà;Ceuta-Melilla;0;0;1;12;4;17
+B-26;Montigalà;Comunitat Valenciana;1;0;11;16;4;32
+B-26;Montigalà;estranger;30;36;172;124;15;377
+B-26;Montigalà;Extremadura;1;0;14;125;35;175
+B-26;Montigalà;Galícia;0;0;6;34;14;54
+B-26;Montigalà;Madrid (Comunitat de);1;0;15;8;3;27
+B-26;Montigalà;Múrcia (Regió de);0;0;2;20;18;40
+B-26;Montigalà;Navarra (Comunitat Foral de);0;0;0;2;1;3
+B-26;Montigalà;País Basc;1;1;2;9;0;13
+B-26;Montigalà;Rioja (La);0;0;0;2;0;2
+B-27;Sant Joan De Llefià;Andalusia;14;2;104;1011;872;2003
+B-27;Sant Joan De Llefià;Aragó;0;0;6;36;43;85
+B-27;Sant Joan De Llefià;Astúries (Principat d );1;0;1;9;7;18
+B-27;Sant Joan De Llefià;Balears (Illes);3;2;2;4;1;12
+B-27;Sant Joan De Llefià;Canàries;3;0;0;2;2;7
+B-27;Sant Joan De Llefià;Cantàbria;0;0;1;4;0;5
+B-27;Sant Joan De Llefià;Castella-la Manxa;0;0;10;152;165;327
+B-27;Sant Joan De Llefià;Castella-Lleó;0;1;14;133;115;263
+B-27;Sant Joan De Llefià;Catalunya;1823;895;2671;1145;154;6688
+B-27;Sant Joan De Llefià;Ceuta-Melilla;1;0;6;29;21;57
+B-27;Sant Joan De Llefià;Comunitat Valenciana;6;1;11;17;26;61
+B-27;Sant Joan De Llefià;estranger;195;376;1284;434;52;2341
+B-27;Sant Joan De Llefià;Extremadura;2;0;29;251;206;488
+B-27;Sant Joan De Llefià;Galícia;0;1;14;81;73;169
+B-27;Sant Joan De Llefià;Madrid (Comunitat de);2;3;9;22;6;42
+B-27;Sant Joan De Llefià;Múrcia (Regió de);0;0;3;31;59;93
+B-27;Sant Joan De Llefià;Navarra (Comunitat Foral de);0;0;0;3;1;4
+B-27;Sant Joan De Llefià;País Basc;2;0;10;6;2;20
+B-27;Sant Joan De Llefià;Rioja (La);0;0;0;1;0;1
+B-28;Sant Antoni De Llefià;Andalusia;4;5;86;1046;1234;2375
+B-28;Sant Antoni De Llefià;Aragó;1;4;9;70;100;184
+B-28;Sant Antoni De Llefià;Astúries (Principat d );0;0;4;9;5;18
+B-28;Sant Antoni De Llefià;Balears (Illes);0;2;3;4;0;9
+B-28;Sant Antoni De Llefià;Canàries;2;0;2;3;1;8
+B-28;Sant Antoni De Llefià;Cantàbria;0;0;2;3;3;8
+B-28;Sant Antoni De Llefià;Castella-la Manxa;1;0;23;201;260;485
+B-28;Sant Antoni De Llefià;Castella-Lleó;1;1;24;185;196;407
+B-28;Sant Antoni De Llefià;Catalunya;1996;1075;3055;1621;461;8208
+B-28;Sant Antoni De Llefià;Ceuta-Melilla;1;0;4;28;30;63
+B-28;Sant Antoni De Llefià;Comunitat Valenciana;3;1;13;23;48;88
+B-28;Sant Antoni De Llefià;estranger;229;437;1470;531;68;2735
+B-28;Sant Antoni De Llefià;Extremadura;1;0;20;292;242;555
+B-28;Sant Antoni De Llefià;Galícia;0;1;21;84;107;213
+B-28;Sant Antoni De Llefià;Madrid (Comunitat de);3;4;11;18;16;52
+B-28;Sant Antoni De Llefià;Múrcia (Regió de);1;0;8;58;128;195
+B-28;Sant Antoni De Llefià;Navarra (Comunitat Foral de);0;0;3;3;8;14
+B-28;Sant Antoni De Llefià;País Basc;1;0;10;3;2;16
+B-28;Sant Antoni De Llefià;Rioja (La);1;0;0;1;4;6
+B-29;Sant Mori De Llefià;Andalusia;9;15;114;1242;1204;2584
+B-29;Sant Mori De Llefià;Aragó;1;1;8;58;67;135
+B-29;Sant Mori De Llefià;Astúries (Principat d );0;0;1;8;5;14
+B-29;Sant Mori De Llefià;Balears (Illes);1;0;3;1;1;6
+B-29;Sant Mori De Llefià;Canàries;0;0;2;2;0;4
+B-29;Sant Mori De Llefià;Cantàbria;0;0;3;4;3;10
+B-29;Sant Mori De Llefià;Castella-la Manxa;0;2;14;177;218;411
+B-29;Sant Mori De Llefià;Castella-Lleó;1;2;17;182;138;340
+B-29;Sant Mori De Llefià;Catalunya;1987;1093;3027;1545;427;8079
+B-29;Sant Mori De Llefià;Ceuta-Melilla;0;0;1;29;25;55
+B-29;Sant Mori De Llefià;Comunitat Valenciana;2;3;19;31;31;86
+B-29;Sant Mori De Llefià;estranger;234;398;1403;483;61;2579
+B-29;Sant Mori De Llefià;Extremadura;2;0;27;288;248;565
+B-29;Sant Mori De Llefià;Galícia;0;2;22;91;86;201
+B-29;Sant Mori De Llefià;Madrid (Comunitat de);7;2;15;15;21;60
+B-29;Sant Mori De Llefià;Múrcia (Regió de);1;0;13;45;105;164
+B-29;Sant Mori De Llefià;Navarra (Comunitat Foral de);0;0;2;3;5;10
+B-29;Sant Mori De Llefià;País Basc;1;0;7;13;7;28
+B-29;Sant Mori De Llefià;Rioja (La);0;0;0;0;7;7
+B-30;Artigas;Andalusia;1;3;21;187;189;401
+B-30;Artigas;Aragó;0;0;4;14;31;49
+B-30;Artigas;Astúries (Principat d );0;0;1;2;2;5
+B-30;Artigas;Balears (Illes);0;0;0;2;3;5
+B-30;Artigas;Canàries;0;0;3;1;0;4
+B-30;Artigas;Cantàbria;0;0;0;0;0;0
+B-30;Artigas;Castella-la Manxa;0;0;5;40;50;95
+B-30;Artigas;Castella-Lleó;0;0;7;34;28;69
+B-30;Artigas;Catalunya;686;257;726;457;207;2333
+B-30;Artigas;Ceuta-Melilla;0;1;1;12;7;21
+B-30;Artigas;Comunitat Valenciana;2;1;3;9;11;26
+B-30;Artigas;estranger;139;312;1065;381;28;1925
+B-30;Artigas;Extremadura;0;1;4;42;25;72
+B-30;Artigas;Galícia;0;0;9;25;19;53
+B-30;Artigas;Madrid (Comunitat de);0;0;3;12;2;17
+B-30;Artigas;Múrcia (Regió de);0;0;1;11;30;42
+B-30;Artigas;Navarra (Comunitat Foral de);1;0;1;1;1;4
+B-30;Artigas;País Basc;0;0;2;3;2;7
+B-30;Artigas;Rioja (La);0;0;1;0;0;1
+B-31;Sant Roc;Andalusia;13;7;56;469;791;1336
+B-31;Sant Roc;Aragó;0;0;5;27;29;61
+B-31;Sant Roc;Astúries (Principat d );0;0;1;8;0;9
+B-31;Sant Roc;Balears (Illes);4;3;11;4;4;26
+B-31;Sant Roc;Canàries;2;1;3;4;3;13
+B-31;Sant Roc;Cantàbria;1;0;0;0;2;3
+B-31;Sant Roc;Castella-la Manxa;3;2;10;67;119;201
+B-31;Sant Roc;Castella-Lleó;3;0;7;37;54;101
+B-31;Sant Roc;Catalunya;2016;1030;1968;1414;364;6792
+B-31;Sant Roc;Ceuta-Melilla;0;1;1;14;27;43
+B-31;Sant Roc;Comunitat Valenciana;4;1;13;24;30;72
+B-31;Sant Roc;estranger;455;812;2426;820;50;4563
+B-31;Sant Roc;Extremadura;3;1;6;94;119;223
+B-31;Sant Roc;Galícia;1;0;3;26;31;61
+B-31;Sant Roc;Madrid (Comunitat de);7;2;11;21;16;57
+B-31;Sant Roc;Múrcia (Regió de);1;1;4;34;103;143
+B-31;Sant Roc;Navarra (Comunitat Foral de);0;1;0;4;5;10
+B-31;Sant Roc;País Basc;4;1;3;3;2;13
+B-31;Sant Roc;Rioja (La);1;0;0;1;0;2
+B-32;Congrés;Andalusia;0;2;21;95;336;454
+B-32;Congrés;Aragó;0;0;2;9;60;71
+B-32;Congrés;Astúries (Principat d );0;0;0;3;3;6
+B-32;Congrés;Balears (Illes);0;0;1;0;0;1
+B-32;Congrés;Canàries;0;0;0;0;1;1
+B-32;Congrés;Cantàbria;0;0;0;1;1;2
+B-32;Congrés;Castella-la Manxa;1;0;0;16;71;88
+B-32;Congrés;Castella-Lleó;1;0;3;17;95;116
+B-32;Congrés;Catalunya;447;215;652;454;317;2085
+B-32;Congrés;Ceuta-Melilla;0;0;0;5;10;15
+B-32;Congrés;Comunitat Valenciana;2;0;0;5;23;30
+B-32;Congrés;estranger;63;108;339;115;26;651
+B-32;Congrés;Extremadura;0;0;3;26;65;94
+B-32;Congrés;Galícia;1;0;1;2;22;26
+B-32;Congrés;Madrid (Comunitat de);0;1;4;3;9;17
+B-32;Congrés;Múrcia (Regió de);0;0;2;5;49;56
+B-32;Congrés;Navarra (Comunitat Foral de);0;0;0;0;6;6
+B-32;Congrés;País Basc;0;0;1;1;1;3
+B-32;Congrés;Rioja (La);1;0;0;0;2;3
+B-33;El Remei;Andalusia;0;0;6;32;28;66
+B-33;El Remei;Aragó;0;0;3;2;6;11
+B-33;El Remei;Astúries (Principat d );0;0;0;1;0;1
+B-33;El Remei;Balears (Illes);0;0;0;0;0;0
+B-33;El Remei;Canàries;0;0;0;1;0;1
+B-33;El Remei;Cantàbria;0;0;0;0;0;0
+B-33;El Remei;Castella-la Manxa;0;0;2;5;5;12
+B-33;El Remei;Castella-Lleó;0;0;0;13;7;20
+B-33;El Remei;Catalunya;179;64;193;134;48;618
+B-33;El Remei;Ceuta-Melilla;1;0;0;3;1;5
+B-33;El Remei;Comunitat Valenciana;1;0;0;0;1;2
+B-33;El Remei;estranger;20;44;128;59;8;259
+B-33;El Remei;Extremadura;0;0;1;12;5;18
+B-33;El Remei;Galícia;0;0;0;5;8;13
+B-33;El Remei;Madrid (Comunitat de);0;0;1;0;1;2
+B-33;El Remei;Múrcia (Regió de);1;0;0;5;14;20
+B-33;El Remei;Navarra (Comunitat Foral de);0;1;0;0;1;2
+B-33;El Remei;País Basc;0;0;0;1;0;1
+B-33;El Remei;Rioja (La);0;0;0;0;0;0
+B-34;La Mora;Andalusia;0;0;2;11;1;14
+B-34;La Mora;Aragó;0;0;3;0;0;3
+B-34;La Mora;Astúries (Principat d );0;0;0;0;0;0
+B-34;La Mora;Balears (Illes);0;0;0;0;0;0
+B-34;La Mora;Canàries;0;0;2;0;0;2
+B-34;La Mora;Cantàbria;0;0;0;0;0;0
+B-34;La Mora;Castella-la Manxa;0;0;0;2;0;2
+B-34;La Mora;Castella-Lleó;0;0;0;2;1;3
+B-34;La Mora;Catalunya;104;21;148;49;8;330
+B-34;La Mora;Ceuta-Melilla;0;0;1;0;0;1
+B-34;La Mora;Comunitat Valenciana;0;0;4;1;0;5
+B-34;La Mora;estranger;5;12;48;16;6;87
+B-34;La Mora;Extremadura;0;0;0;1;0;1
+B-34;La Mora;Galícia;2;0;5;1;0;8
+B-34;La Mora;Madrid (Comunitat de);2;0;2;2;0;6
+B-34;La Mora;Múrcia (Regió de);0;1;0;0;0;1
+B-34;La Mora;Navarra (Comunitat Foral de);0;0;2;0;0;2
+B-34;La Mora;País Basc;0;0;1;1;0;2
+B-34;La Mora;Rioja (La);0;0;0;0;0;0

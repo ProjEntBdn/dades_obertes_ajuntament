@@ -1,0 +1,669 @@
+﻿CODI_DIVISIO_TERRITORIAL;DISTRICTE_AMBIT_TERRITORIAL;BARRI_AMBIT_TERRITORIAL;MES;ANY;CODI_INFRACCIO;DESCRIPCIO_INFRACCIO;NRE_TOTAL
+B-1; ;Centre;05;2013;117-1;No utilitzar , el conductor/a, el cinturó de seguretat;6
+B-1; ;Centre;05;2013;143-1;No obeir les ordres de l agent de circulació;1
+B-1; ;Centre;05;2013;144-2;No trobo la descripció de la infracció;1
+B-1; ;Centre;05;2013;145-;No trobo la descripció de la infracció;1
+B-1; ;Centre;05;2013;146-;No respectar semàfors circulars per a vehicles;4
+B-1; ;Centre;05;2013;152-;No respectar senyals de prohibició d entrada;2
+B-1; ;Centre;05;2013;154-;No respectar altres senyals de prohibició o restricció;14
+B-1; ;Centre;05;2013;154-1;No obeir el senyal d estacionament prohibit;15
+B-1; ;Centre;05;2013;154-4;No obeir el senyal d aturada prohibida;8
+B-1; ;Centre;05;2013;159-;No respectar senyals d indicacions generals;1
+B-1; ;Centre;05;2013;167-1;No respectar la línia longitudinal contínua;1
+B-1; ;Centre;05;2013;171-;No respectar marques d altres colors;8
+B-1; ;Centre;05;2013;18-1;Conduir sense matenir la pròpia llibertat de moviments;1
+B-1; ;Centre;05;2013;18-10;No mantenir les plaques de matricula del vehicle totalment visibles per tal que es puguin llegir i identificar plenament;1
+B-1; ;Centre;05;2013;18-2;Conduir sense mantenir el camp necessari de visió;4
+B-1; ;Centre;05;2013;20-1;Conduir un vehicle amb una concentració d alcohol en l aire espirat entre 0,25 i 0,50 mgs;2
+B-1; ;Centre;05;2013;3-1;Conduïr de forma negligent;1
+B-1; ;Centre;05;2013;36-2;No trobo la descripció de la infracció;2
+B-1; ;Centre;05;2013;65-;No trobo la descripció de la infracció;1
+B-1; ;Centre;05;2013;9-;Transportar un nombre de persones superior al de places autoritzades;2
+B-1; ;Centre;05;2013;91-1;Estacionar en una sortida d emergència;4
+B-1; ;Centre;05;2013;91-12;Estacionar en una zona de càrrega i descàrrega obstaculitzant els vehicles autoritzats per a fer-ho;2
+B-1; ;Centre;05;2013;91-14;Estacionar damunt la vorera obstaculitzant el pas de vianants;5
+B-1; ;Centre;05;2013;91-15;Estacionar en una zona per als vianants i impedir-ne el pas;4
+B-1; ;Centre;05;2013;91-18;Estacionar en un carril obstaculitzant la circulació;7
+B-1; ;Centre;05;2013;91-2;Estacionar i impedir el moviment de vehicles degudament estacionats;1
+B-1; ;Centre;05;2013;91-2;No trobo la descripció de la infracció;5
+B-1; ;Centre;05;2013;91-5;Estacionar en un pas de minusvàlids;25
+B-1; ;Centre;05;2013;92-2;Estacionar i no permetre l ús millor de l espai disponible;1
+B-1; ;Centre;05;2013;92-3;Absentar-se del vehicle sense prendre mesures per evitar que es posi en moviment;1
+B-1; ;Centre;05;2013;94-11;Estacionar un vehicle temps indefinit amb símptomes d abandonament  impedint altres estacionaments;1
+B-1; ;Centre;05;2013;94-12;Estacionar en un carril reservat a la circulació i afectar-la;36
+B-1; ;Centre;05;2013;94-13;Estacionar en una part de la via reservada al servei de determinats usuaris/es;26
+B-1; ;Centre;05;2013;94-14;Estacionar a prop d una intersecció i dificultar el gir;10
+B-1; ;Centre;05;2013;94-15;Estacionar a prop d una intersecció i dificultar la visibilitat;2
+B-1; ;Centre;05;2013;94-16;Estacionar en doble fila;2
+B-1; ;Centre;05;2013;94-17;Estacionar damunt la vorera;15
+B-1; ;Centre;05;2013;94-18;Estacionar en un gual;2
+B-1; ;Centre;05;2013;94-19;Estacionar en una zona de càrrega i descàrrega;44
+B-1; ;Centre;05;2013;94-2;Estacionar sobre la vorera;4
+B-1; ;Centre;05;2013;94-2;Aturar-se en un carril reservat a la circulació i afectar-la;2
+B-1; ;Centre;05;2013;94-2;No trobo la descripció de la infracció;4
+B-1; ;Centre;05;2013;94-20;Estacionar en una zona senyalitzada per a l ús exclusiu de minusvàlids;7
+B-1; ;Centre;05;2013;94-21;Estacionar en una zona per a vianants;49
+B-1; ;Centre;05;2013;94-25;Estacionar remolcs, semiremolcs o caravanes separats del vehicle tractor;1
+B-1; ;Centre;05;2013;94-3;Aturar-se en una part de la via reservada al servei de determinats usuaris/es;1
+B-1; ;Centre;05;2013;94-31;Estacionar sense tiquet de control d horari;332
+B-1; ;Centre;05;2013;94-32;Estacionar i sobrepassar el temps del tiquet de control d horari;135
+B-1; ;Centre;05;2013;94-33;Estacionar i sobrepassar el temps màxim autoritzat;64
+B-1; ;Centre;05;2013;94-34;Estacionar amb el tiquet de control d horari sense que es vegi;13
+B-10; ;Bonavista;05;2013;94-17;Estacionar damunt la vorera;2
+B-10; ;Bonavista;05;2013;94-18;Estacionar en un gual;1
+B-10; ;Bonavista;05;2013;94-9;Estacionar en una intersecció;2
+B-11; ;Manresà;05;2013;152-;No respectar senyals de prohibició d entrada;1
+B-11; ;Manresà;05;2013;152-1;No obeir el senyal de circulació prohibida;1
+B-11; ;Manresà;05;2013;18-2;Conduir sense mantenir el camp necessari de visió;1
+B-11; ;Manresà;05;2013;2-;No trobo la descripció de la infracció;1
+B-11; ;Manresà;05;2013;20-1;Conduir un vehicle amb una concentració d alcohol en l aire espirat entre 0,25 i 0,50 mgs;1
+B-11; ;Manresà;05;2013;46-1;No adequar la velocitat a la que exigeixen les circumstàncies;1
+B-11; ;Manresà;05;2013;74-1;Girar sense avisar amb temps suficient els conductor/es i els vehicles que cirulen darrere;1
+B-11; ;Manresà;05;2013;9-1;Transportar un nombre de persones superior al de places autoritzades;1
+B-11; ;Manresà;05;2013;91-5;Estacionar en un pas de minusvàlids;1
+B-11; ;Manresà;05;2013;94-12;Estacionar en un carril reservat a la circulació i afectar-la;2
+B-11; ;Manresà;05;2013;94-17;Estacionar damunt la vorera;1
+B-11; ;Manresà;05;2013;94-9;Estacionar en una intersecció;1
+B-12; ;Canyadó;05;2013;154-4;No obeir el senyal d aturada prohibida;1
+B-12; ;Canyadó;05;2013;91-11;Estacionar en un gual obstaculitzant totalment la sortida de vehicles;1
+B-12; ;Canyadó;05;2013;94-12;Estacionar en un carril reservat a la circulació i afectar-la;4
+B-12; ;Canyadó;05;2013;94-13;Estacionar en una part de la via reservada al servei de determinats usuaris/es;5
+B-12; ;Canyadó;05;2013;94-17;Estacionar damunt la vorera;1
+B-12; ;Canyadó;05;2013;94-21;Estacionar en una zona per a vianants;1
+B-13; ;Casagemes;05;2013;154-1;No obeir el senyal d estacionament prohibit;4
+B-13; ;Casagemes;05;2013;155-;No respectar senyals d obligació;1
+B-13; ;Casagemes;05;2013;18-2;Conduir sense mantenir el camp necessari de visió;1
+B-13; ;Casagemes;05;2013;91-1;Estacionar en una sortida d emergència;1
+B-13; ;Casagemes;05;2013;91-11;Estacionar en un gual obstaculitzant totalment la sortida de vehicles;2
+B-13; ;Casagemes;05;2013;91-14;Estacionar damunt la vorera obstaculitzant el pas de vianants;1
+B-13; ;Casagemes;05;2013;91-18;Estacionar en un carril obstaculitzant la circulació;4
+B-13; ;Casagemes;05;2013;91-5;Estacionar en un pas de minusvàlids;5
+B-13; ;Casagemes;05;2013;94-12;Estacionar en un carril reservat a la circulació i afectar-la;1
+B-13; ;Casagemes;05;2013;94-13;Estacionar en una part de la via reservada al servei de determinats usuaris/es;3
+B-13; ;Casagemes;05;2013;94-14;Estacionar a prop d una intersecció i dificultar el gir;2
+B-13; ;Casagemes;05;2013;94-17;Estacionar damunt la vorera;7
+B-13; ;Casagemes;05;2013;94-18;Estacionar en un gual;1
+B-13; ;Casagemes;05;2013;94-2;Estacionar sobre la vorera;1
+B-13; ;Casagemes;05;2013;94-20;Estacionar en una zona senyalitzada per a l ús exclusiu de minusvàlids;2
+B-13; ;Casagemes;05;2013;94-21;Estacionar en una zona per a vianants;13
+B-13; ;Casagemes;05;2013;94-32;Estacionar i sobrepassar el temps del tiquet de control d horari;1
+B-13; ;Casagemes;05;2013;94-9;Estacionar en una intersecció;7
+B-15; ;Pomar;05;2013;152-;No respectar senyals de prohibició d entrada;1
+B-15; ;Pomar;05;2013;152-1;No obeir el senyal de circulació prohibida;1
+B-15; ;Pomar;05;2013;91-5;Estacionar en un pas de minusvàlids;1
+B-15; ;Pomar;05;2013;94-11;Estacionar un vehicle temps indefinit amb símptomes d abandonament  impedint altres estacionaments;6
+B-15; ;Pomar;05;2013;94-12;Estacionar en un carril reservat a la circulació i afectar-la;3
+B-15; ;Pomar;05;2013;94-25;Estacionar remolcs, semiremolcs o caravanes separats del vehicle tractor;1
+B-15; ;Pomar;05;2013;94-31;Estacionar sense tiquet de control d horari;1
+B-15; ;Pomar;05;2013;94-9;Estacionar en una intersecció;1
+B-16; ;Morera;05;2013;117-1;No utilitzar , el conductor/a, el cinturó de seguretat;1
+B-16; ;Morera;05;2013;129-1;No facilitar-ne la identitat quan s està implicat en un accident de circulació;1
+B-16; ;Morera;05;2013;146-;No respectar semàfors circulars per a vehicles;1
+B-16; ;Morera;05;2013;155-;No respectar senyals d obligació;3
+B-16; ;Morera;05;2013;171-;No respectar marques d altres colors;1
+B-16; ;Morera;05;2013;78-1;Canviar el sentit de la marxa en un lloc inadequat;1
+B-16; ;Morera;05;2013;91-14;Estacionar damunt la vorera obstaculitzant el pas de vianants;1
+B-16; ;Morera;05;2013;91-5;Estacionar en un pas de minusvàlids;5
+B-16; ;Morera;05;2013;94-11;Estacionar un vehicle temps indefinit amb símptomes d abandonament  impedint altres estacionaments;5
+B-16; ;Morera;05;2013;94-12;Estacionar en un carril reservat a la circulació i afectar-la;10
+B-16; ;Morera;05;2013;94-13;Estacionar en una part de la via reservada al servei de determinats usuaris/es;5
+B-16; ;Morera;05;2013;94-14;Estacionar a prop d una intersecció i dificultar el gir;1
+B-16; ;Morera;05;2013;94-15;Estacionar a prop d una intersecció i dificultar la visibilitat;1
+B-16; ;Morera;05;2013;94-17;Estacionar damunt la vorera;4
+B-16; ;Morera;05;2013;94-18;Estacionar en un gual;1
+B-16; ;Morera;05;2013;94-19;Estacionar en una zona de càrrega i descàrrega;1
+B-16; ;Morera;05;2013;94-2;Aturar-se en un carril reservat a la circulació i afectar-la;1
+B-16; ;Morera;05;2013;94-23;Estacionar en bateria quan la senyalització indica en cordó;2
+B-16; ;Morera;05;2013;94-33;Estacionar i sobrepassar el temps màxim autoritzat;1
+B-16; ;Morera;05;2013;94-9;Estacionar en una intersecció;2
+B-18; ;Pomar De Dalt;05;2013;154-;No respectar altres senyals de prohibició o restricció;2
+B-18; ;Pomar De Dalt;05;2013;155-;No respectar senyals d obligació;4
+B-18; ;Pomar De Dalt;05;2013;167-1;No respectar la línia longitudinal contínua;2
+B-18; ;Pomar De Dalt;05;2013;94-9;Estacionar en una intersecció;1
+B-19; ;Sant Crist De Can Cabanyes;05;2013;117-1;No utilitzar , el conductor/a, el cinturó de seguretat;3
+B-19; ;Sant Crist De Can Cabanyes;05;2013;121-6;Circular amb un vehicle per una zona de vianants;1
+B-19; ;Sant Crist De Can Cabanyes;05;2013;18-1;Conduir sense matenir la pròpia llibertat de moviments;1
+B-19; ;Sant Crist De Can Cabanyes;05;2013;18-2;Conduir sense mantenir el camp necessari de visió;1
+B-19; ;Sant Crist De Can Cabanyes;05;2013;78-1;Canviar el sentit de la marxa en un lloc inadequat;2
+B-19; ;Sant Crist De Can Cabanyes;05;2013;91-1;Estacionar en una sortida d emergència;12
+B-19; ;Sant Crist De Can Cabanyes;05;2013;91-11;Estacionar en un gual obstaculitzant totalment la sortida de vehicles;2
+B-19; ;Sant Crist De Can Cabanyes;05;2013;91-18;Estacionar en un carril obstaculitzant la circulació;1
+B-19; ;Sant Crist De Can Cabanyes;05;2013;91-2;Estacionar i impedir el moviment de vehicles degudament estacionats;1
+B-19; ;Sant Crist De Can Cabanyes;05;2013;91-2;No trobo la descripció de la infracció;1
+B-19; ;Sant Crist De Can Cabanyes;05;2013;91-3;Estacionar en separadors, illes o altres elements de canalització del trànsit;1
+B-19; ;Sant Crist De Can Cabanyes;05;2013;91-5;Estacionar en un pas de minusvàlids;4
+B-19; ;Sant Crist De Can Cabanyes;05;2013;94-10;Estacionar en un pas de vianants;2
+B-19; ;Sant Crist De Can Cabanyes;05;2013;94-11;Estacionar un vehicle temps indefinit amb símptomes d abandonament  impedint altres estacionaments;5
+B-19; ;Sant Crist De Can Cabanyes;05;2013;94-12;Estacionar en un carril reservat a la circulació i afectar-la;11
+B-19; ;Sant Crist De Can Cabanyes;05;2013;94-13;Estacionar en una part de la via reservada al servei de determinats usuaris/es;4
+B-19; ;Sant Crist De Can Cabanyes;05;2013;94-14;Estacionar a prop d una intersecció i dificultar el gir;3
+B-19; ;Sant Crist De Can Cabanyes;05;2013;94-15;Estacionar a prop d una intersecció i dificultar la visibilitat;1
+B-19; ;Sant Crist De Can Cabanyes;05;2013;94-17;Estacionar damunt la vorera;6
+B-19; ;Sant Crist De Can Cabanyes;05;2013;94-18;Estacionar en un gual;2
+B-19; ;Sant Crist De Can Cabanyes;05;2013;94-2;Estacionar sobre la vorera;1
+B-19; ;Sant Crist De Can Cabanyes;05;2013;94-21;Estacionar en una zona per a vianants;3
+B-19; ;Sant Crist De Can Cabanyes;05;2013;94-9;Estacionar en una intersecció;2
+B-2; ;Coll I Pujol;05;2013;117-1;No utilitzar , el conductor/a, el cinturó de seguretat;1
+B-2; ;Coll I Pujol;05;2013;117-2;No utilitzar, el passatger del seient del davant, el cinturó de seguretat;1
+B-2; ;Coll I Pujol;05;2013;117-5;Circular un passatger major de 3 anys sense utilitzar un sistema de subjecció homologat o, en el seu defecte sense utilitzar els cinturons de seguretat del vehicle;1
+B-2; ;Coll I Pujol;05;2013;143-1;No obeir les ordres de l agent de circulació;1
+B-2; ;Coll I Pujol;05;2013;146-;No respectar semàfors circulars per a vehicles;4
+B-2; ;Coll I Pujol;05;2013;154-1;No obeir el senyal d estacionament prohibit;1
+B-2; ;Coll I Pujol;05;2013;154-4;No obeir el senyal d aturada prohibida;1
+B-2; ;Coll I Pujol;05;2013;160-;No respectar senyals de carrils;3
+B-2; ;Coll I Pujol;05;2013;160-1;No respectar el carril reservat als autobusos o taxis;1
+B-2; ;Coll I Pujol;05;2013;18-2;Conduir sense mantenir el camp necessari de visió;1
+B-2; ;Coll I Pujol;05;2013;3-1;Conduïr de forma negligent;1
+B-2; ;Coll I Pujol;05;2013;46-1;No trobo la descripció de la infracció;1
+B-2; ;Coll I Pujol;05;2013;46-1;No adequar la velocitat a la que exigeixen les circumstàncies;1
+B-2; ;Coll I Pujol;05;2013;9-;Transportar un nombre de persones superior al de places autoritzades;1
+B-2; ;Coll I Pujol;05;2013;91-1;Estacionar en una sortida d emergència;8
+B-2; ;Coll I Pujol;05;2013;91-14;Estacionar damunt la vorera obstaculitzant el pas de vianants;4
+B-2; ;Coll I Pujol;05;2013;91-18;Estacionar en un carril obstaculitzant la circulació;2
+B-2; ;Coll I Pujol;05;2013;91-2;Estacionar i impedir el moviment de vehicles degudament estacionats;1
+B-2; ;Coll I Pujol;05;2013;91-5;Estacionar en un pas de minusvàlids;13
+B-2; ;Coll I Pujol;05;2013;94-10;Estacionar en un pas de vianants;1
+B-2; ;Coll I Pujol;05;2013;94-11;Estacionar un vehicle temps indefinit amb símptomes d abandonament  impedint altres estacionaments;1
+B-2; ;Coll I Pujol;05;2013;94-12;Estacionar en un carril reservat a la circulació i afectar-la;12
+B-2; ;Coll I Pujol;05;2013;94-13;Estacionar en una part de la via reservada al servei de determinats usuaris/es;1
+B-2; ;Coll I Pujol;05;2013;94-14;Estacionar a prop d una intersecció i dificultar el gir;4
+B-2; ;Coll I Pujol;05;2013;94-15;Estacionar a prop d una intersecció i dificultar la visibilitat;1
+B-2; ;Coll I Pujol;05;2013;94-17;Estacionar damunt la vorera;11
+B-2; ;Coll I Pujol;05;2013;94-18;Estacionar en un gual;1
+B-2; ;Coll I Pujol;05;2013;94-19;Estacionar en una zona de càrrega i descàrrega;1
+B-2; ;Coll I Pujol;05;2013;94-2;Estacionar sobre la vorera;4
+B-2; ;Coll I Pujol;05;2013;94-2;Aturar-se en un carril reservat a la circulació i afectar-la;1
+B-2; ;Coll I Pujol;05;2013;94-2;No trobo la descripció de la infracció;1
+B-2; ;Coll I Pujol;05;2013;94-20;Estacionar en una zona senyalitzada per a l ús exclusiu de minusvàlids;1
+B-2; ;Coll I Pujol;05;2013;94-9;Estacionar en una intersecció;5
+B-20; ;Nova Lloreda;05;2013;152-1;No obeir el senyal de circulació prohibida;1
+B-20; ;Nova Lloreda;05;2013;154-1;No obeir el senyal d estacionament prohibit;1
+B-20; ;Nova Lloreda;05;2013;171-;No respectar marques d altres colors;3
+B-20; ;Nova Lloreda;05;2013;91-1;Estacionar en una sortida d emergència;6
+B-20; ;Nova Lloreda;05;2013;91-14;Estacionar damunt la vorera obstaculitzant el pas de vianants;5
+B-20; ;Nova Lloreda;05;2013;91-3;Estacionar en separadors, illes o altres elements de canalització del trànsit;2
+B-20; ;Nova Lloreda;05;2013;94-12;Estacionar en un carril reservat a la circulació i afectar-la;8
+B-20; ;Nova Lloreda;05;2013;94-13;Estacionar en una part de la via reservada al servei de determinats usuaris/es;1
+B-20; ;Nova Lloreda;05;2013;94-17;Estacionar damunt la vorera;7
+B-20; ;Nova Lloreda;05;2013;94-2;No trobo la descripció de la infracció;2
+B-20; ;Nova Lloreda;05;2013;94-2;Aturar-se en un carril reservat a la circulació i afectar-la;4
+B-20; ;Nova Lloreda;05;2013;94-21;Estacionar en una zona per a vianants;10
+B-21; ;Sistrells;05;2013;101-1;Circular sense portar encès l enllumenat reglamentari durant la nit;1
+B-21; ;Sistrells;05;2013;117-1;No utilitzar , el conductor/a, el cinturó de seguretat;3
+B-21; ;Sistrells;05;2013;146-;No respectar semàfors circulars per a vehicles;3
+B-21; ;Sistrells;05;2013;154-1;No obeir el senyal d estacionament prohibit;6
+B-21; ;Sistrells;05;2013;171-;No respectar marques d altres colors;1
+B-21; ;Sistrells;05;2013;18-1;Conduir sense matenir la pròpia llibertat de moviments;1
+B-21; ;Sistrells;05;2013;20-1;Conduir un vehicle amb una concentració d alcohol en l aire espirat entre 0,25 i 0,50 mgs;1
+B-21; ;Sistrells;05;2013;78-1;Canviar el sentit de la marxa en un lloc inadequat;2
+B-21; ;Sistrells;05;2013;79-1;Canviar el sentit de la marxar en un tram de visibilitat limitada;1
+B-21; ;Sistrells;05;2013;9-;Transportar un nombre de persones superior al de places autoritzades;1
+B-21; ;Sistrells;05;2013;91-1;Estacionar en una sortida d emergència;4
+B-21; ;Sistrells;05;2013;91-11;Estacionar en un gual obstaculitzant totalment la sortida de vehicles;1
+B-21; ;Sistrells;05;2013;91-13;Estacionar en una zona reservada al transport públic obstaculitzant els vehicles autoritzats per a fer-ho;1
+B-21; ;Sistrells;05;2013;91-14;Estacionar damunt la vorera obstaculitzant el pas de vianants;2
+B-21; ;Sistrells;05;2013;91-16;Estacionar en un pas de vianants i impedir-ne el pas;2
+B-21; ;Sistrells;05;2013;91-18;Estacionar en un carril obstaculitzant la circulació;5
+B-21; ;Sistrells;05;2013;91-3;Estacionar en separadors, illes o altres elements de canalització del trànsit;1
+B-21; ;Sistrells;05;2013;91-5;Estacionar en un pas de minusvàlids;4
+B-21; ;Sistrells;05;2013;91-6;Aturar-se i obstaculitzar greument la circulació;1
+B-21; ;Sistrells;05;2013;94-1;No trobo la descripció de la infracció;1
+B-21; ;Sistrells;05;2013;94-10;Estacionar en un pas de vianants;3
+B-21; ;Sistrells;05;2013;94-11;Estacionar un vehicle temps indefinit amb símptomes d abandonament  impedint altres estacionaments;3
+B-21; ;Sistrells;05;2013;94-12;Estacionar en un carril reservat a la circulació i afectar-la;12
+B-21; ;Sistrells;05;2013;94-13;Estacionar en una part de la via reservada al servei de determinats usuaris/es;15
+B-21; ;Sistrells;05;2013;94-14;Estacionar a prop d una intersecció i dificultar el gir;1
+B-21; ;Sistrells;05;2013;94-17;Estacionar damunt la vorera;16
+B-21; ;Sistrells;05;2013;94-18;Estacionar en un gual;2
+B-21; ;Sistrells;05;2013;94-2;Aturar-se en un carril reservat a la circulació i afectar-la;2
+B-21; ;Sistrells;05;2013;94-21;Estacionar en una zona per a vianants;2
+B-21; ;Sistrells;05;2013;94-9;Estacionar en una intersecció;2
+B-22; ;La Salut;05;2013;117-1;No utilitzar , el conductor/a, el cinturó de seguretat;2
+B-22; ;La Salut;05;2013;118-1;No utilitzar, el conductor/a casc de protecció;2
+B-22; ;La Salut;05;2013;121-6;Circular amb un vehicle per una zona de vianants;1
+B-22; ;La Salut;05;2013;143-1;No obeir les ordres de l agent de circulació;1
+B-22; ;La Salut;05;2013;145-;No trobo la descripció de la infracció;1
+B-22; ;La Salut;05;2013;146-;No respectar semàfors circulars per a vehicles;4
+B-22; ;La Salut;05;2013;146-3;No detenir-se, podent-ho fer sense perill, davant la llum groga no intermitent d un semàfor;1
+B-22; ;La Salut;05;2013;152-;No respectar senyals de prohibició d entrada;1
+B-22; ;La Salut;05;2013;152-1;No obeir el senyal de circulació prohibida;1
+B-22; ;La Salut;05;2013;154-;No respectar altres senyals de prohibició o restricció;1
+B-22; ;La Salut;05;2013;154-1;No obeir el senyal d estacionament prohibit;15
+B-22; ;La Salut;05;2013;155-;No respectar senyals d obligació;1
+B-22; ;La Salut;05;2013;159-;No respectar senyals d indicacions generals;5
+B-22; ;La Salut;05;2013;171-;No respectar marques d altres colors;1
+B-22; ;La Salut;05;2013;18-2;Conduir sense mantenir el camp necessari de visió;2
+B-22; ;La Salut;05;2013;20-1;Conduir un vehicle amb una concentració d alcohol en l aire espirat entre 0,25 i 0,50 mgs;1
+B-22; ;La Salut;05;2013;65-;No trobo la descripció de la infracció;1
+B-22; ;La Salut;05;2013;9-;Transportar un nombre de persones superior al de places autoritzades;1
+B-22; ;La Salut;05;2013;9-1;Transportar un nombre de persones superior al de places autoritzades;1
+B-22; ;La Salut;05;2013;91-1;Estacionar en una sortida d emergència;1
+B-22; ;La Salut;05;2013;91-11;Estacionar en un gual obstaculitzant totalment la sortida de vehicles;2
+B-22; ;La Salut;05;2013;91-12;Estacionar en una zona de càrrega i descàrrega obstaculitzant els vehicles autoritzats per a fer-ho;4
+B-22; ;La Salut;05;2013;91-14;Estacionar damunt la vorera obstaculitzant el pas de vianants;7
+B-22; ;La Salut;05;2013;91-15;Estacionar en una zona per als vianants i impedir-ne el pas;1
+B-22; ;La Salut;05;2013;91-18;Estacionar en un carril obstaculitzant la circulació;3
+B-22; ;La Salut;05;2013;91-2;No trobo la descripció de la infracció;1
+B-22; ;La Salut;05;2013;91-2;Estacionar i impedir el moviment de vehicles degudament estacionats;1
+B-22; ;La Salut;05;2013;91-3;Estacionar en separadors, illes o altres elements de canalització del trànsit;6
+B-22; ;La Salut;05;2013;91-6;Aturar-se i obstaculitzar greument la circulació;1
+B-22; ;La Salut;05;2013;94-10;Estacionar en un pas de vianants;3
+B-22; ;La Salut;05;2013;94-11;Estacionar un vehicle temps indefinit amb símptomes d abandonament  impedint altres estacionaments;6
+B-22; ;La Salut;05;2013;94-12;Estacionar en un carril reservat a la circulació i afectar-la;21
+B-22; ;La Salut;05;2013;94-13;Estacionar en una part de la via reservada al servei de determinats usuaris/es;31
+B-22; ;La Salut;05;2013;94-15;Estacionar a prop d una intersecció i dificultar la visibilitat;9
+B-22; ;La Salut;05;2013;94-16;Estacionar en doble fila;5
+B-22; ;La Salut;05;2013;94-17;Estacionar damunt la vorera;44
+B-22; ;La Salut;05;2013;94-18;Estacionar en un gual;2
+B-22; ;La Salut;05;2013;94-19;Estacionar en una zona de càrrega i descàrrega;23
+B-22; ;La Salut;05;2013;94-2;Aturar-se en un carril reservat a la circulació i afectar-la;3
+B-22; ;La Salut;05;2013;94-2;Estacionar sobre la vorera;1
+B-22; ;La Salut;05;2013;94-2;No trobo la descripció de la infracció;2
+B-22; ;La Salut;05;2013;94-20;Estacionar en una zona senyalitzada per a l ús exclusiu de minusvàlids;4
+B-22; ;La Salut;05;2013;94-22;Estacionar en una zona reservada al transport públic;2
+B-22; ;La Salut;05;2013;94-29;Estacionar un ciclomotor o motocicleta en una vorera de menys de 3 m d amplada;2
+B-22; ;La Salut;05;2013;94-30;Estacionar un ciclomotor o motocicleta en un passeig o zona de vianants;1
+B-22; ;La Salut;05;2013;94-9;Estacionar en una intersecció;13
+B-23; ;Lloreda;05;2013;78-1;Canviar el sentit de la marxa en un lloc inadequat;1
+B-23; ;Lloreda;05;2013;91-14;Estacionar damunt la vorera obstaculitzant el pas de vianants;2
+B-23; ;Lloreda;05;2013;91-16;Estacionar en un pas de vianants i impedir-ne el pas;1
+B-23; ;Lloreda;05;2013;91-2;No trobo la descripció de la infracció;4
+B-23; ;Lloreda;05;2013;91-5;Estacionar en un pas de minusvàlids;13
+B-23; ;Lloreda;05;2013;94-11;Estacionar un vehicle temps indefinit amb símptomes d abandonament  impedint altres estacionaments;3
+B-23; ;Lloreda;05;2013;94-12;Estacionar en un carril reservat a la circulació i afectar-la;1
+B-23; ;Lloreda;05;2013;94-17;Estacionar damunt la vorera;7
+B-23; ;Lloreda;05;2013;94-18;Estacionar en un gual;1
+B-23; ;Lloreda;05;2013;94-9;Estacionar en una intersecció;1
+B-24; ;La Pau;05;2013;80-2;Circular marxa enrera durant un recorregut superior a quinze metres;1
+B-24; ;La Pau;05;2013;91-16;Estacionar en un pas de vianants i impedir-ne el pas;2
+B-24; ;La Pau;05;2013;94-10;Estacionar en un pas de vianants;1
+B-24; ;La Pau;05;2013;94-12;Estacionar en un carril reservat a la circulació i afectar-la;10
+B-24; ;La Pau;05;2013;94-13;Estacionar en una part de la via reservada al servei de determinats usuaris/es;2
+B-24; ;La Pau;05;2013;94-17;Estacionar damunt la vorera;6
+B-24; ;La Pau;05;2013;94-9;Estacionar en una intersecció;2
+B-25; ;Puigfred;05;2013;117-1;No utilitzar , el conductor/a, el cinturó de seguretat;2
+B-25; ;Puigfred;05;2013;118-1;No utilitzar, el conductor/a casc de protecció;1
+B-25; ;Puigfred;05;2013;146-;No respectar semàfors circulars per a vehicles;1
+B-25; ;Puigfred;05;2013;154-;No respectar altres senyals de prohibició o restricció;1
+B-25; ;Puigfred;05;2013;154-1;No obeir el senyal d estacionament prohibit;3
+B-25; ;Puigfred;05;2013;18-2;Conduir sense mantenir el camp necessari de visió;2
+B-25; ;Puigfred;05;2013;91-14;Estacionar damunt la vorera obstaculitzant el pas de vianants;1
+B-25; ;Puigfred;05;2013;91-4;Estacionar en el centre de la calçada;3
+B-25; ;Puigfred;05;2013;91-5;Estacionar en un pas de minusvàlids;2
+B-25; ;Puigfred;05;2013;94-11;Estacionar un vehicle temps indefinit amb símptomes d abandonament  impedint altres estacionaments;4
+B-25; ;Puigfred;05;2013;94-12;Estacionar en un carril reservat a la circulació i afectar-la;10
+B-25; ;Puigfred;05;2013;94-13;Estacionar en una part de la via reservada al servei de determinats usuaris/es;6
+B-25; ;Puigfred;05;2013;94-14;Estacionar a prop d una intersecció i dificultar el gir;8
+B-25; ;Puigfred;05;2013;94-15;Estacionar a prop d una intersecció i dificultar la visibilitat;1
+B-25; ;Puigfred;05;2013;94-16;Estacionar en doble fila;1
+B-25; ;Puigfred;05;2013;94-17;Estacionar damunt la vorera;3
+B-25; ;Puigfred;05;2013;94-18;Estacionar en un gual;1
+B-25; ;Puigfred;05;2013;94-19;Estacionar en una zona de càrrega i descàrrega;8
+B-25; ;Puigfred;05;2013;94-21;Estacionar en una zona per a vianants;3
+B-25; ;Puigfred;05;2013;94-9;Estacionar en una intersecció;3
+B-26; ;Montigalà;05;2013;117-1;No utilitzar , el conductor/a, el cinturó de seguretat;1
+B-26; ;Montigalà;05;2013;146-;No respectar semàfors circulars per a vehicles;1
+B-26; ;Montigalà;05;2013;151-2;No trobo la descripció de la infracció;2
+B-26; ;Montigalà;05;2013;154-4;No obeir el senyal d aturada prohibida;3
+B-26; ;Montigalà;05;2013;171-;No respectar marques d altres colors;3
+B-26; ;Montigalà;05;2013;18-2;Conduir sense mantenir el camp necessari de visió;2
+B-26; ;Montigalà;05;2013;20-1;Conduir un vehicle amb una concentració d alcohol en l aire espirat entre 0,25 i 0,50 mgs;1
+B-26; ;Montigalà;05;2013;43-1;No deixar a l esquerra el refugi en una via de doble sentit de circulació;1
+B-26; ;Montigalà;05;2013;91-1;Estacionar en una sortida d emergència;4
+B-26; ;Montigalà;05;2013;91-14;Estacionar damunt la vorera obstaculitzant el pas de vianants;12
+B-26; ;Montigalà;05;2013;91-18;Estacionar en un carril obstaculitzant la circulació;1
+B-26; ;Montigalà;05;2013;91-2;No trobo la descripció de la infracció;1
+B-26; ;Montigalà;05;2013;91-5;Estacionar en un pas de minusvàlids;13
+B-26; ;Montigalà;05;2013;94-10;Estacionar en un pas de vianants;1
+B-26; ;Montigalà;05;2013;94-11;Estacionar un vehicle temps indefinit amb símptomes d abandonament  impedint altres estacionaments;3
+B-26; ;Montigalà;05;2013;94-12;Estacionar en un carril reservat a la circulació i afectar-la;11
+B-26; ;Montigalà;05;2013;94-13;Estacionar en una part de la via reservada al servei de determinats usuaris/es;5
+B-26; ;Montigalà;05;2013;94-14;Estacionar a prop d una intersecció i dificultar el gir;2
+B-26; ;Montigalà;05;2013;94-15;Estacionar a prop d una intersecció i dificultar la visibilitat;1
+B-26; ;Montigalà;05;2013;94-17;Estacionar damunt la vorera;3
+B-26; ;Montigalà;05;2013;94-2;No trobo la descripció de la infracció;1
+B-26; ;Montigalà;05;2013;94-20;Estacionar en una zona senyalitzada per a l ús exclusiu de minusvàlids;4
+B-26; ;Montigalà;05;2013;94-22;Estacionar en una zona reservada al transport públic;2
+B-26; ;Montigalà;05;2013;94-9;Estacionar en una intersecció;1
+B-27; ;Sant Joan De Llefià;05;2013;117-5;Circular un passatger major de 3 anys sense utilitzar un sistema de subjecció homologat o, en el seu defecte sense utilitzar els cinturons de seguretat del vehicle;1
+B-27; ;Sant Joan De Llefià;05;2013;154-1;No obeir el senyal d estacionament prohibit;6
+B-27; ;Sant Joan De Llefià;05;2013;159-;No respectar senyals d indicacions generals;1
+B-27; ;Sant Joan De Llefià;05;2013;91-14;Estacionar damunt la vorera obstaculitzant el pas de vianants;5
+B-27; ;Sant Joan De Llefià;05;2013;91-4;Estacionar en el centre de la calçada;1
+B-27; ;Sant Joan De Llefià;05;2013;91-5;Estacionar en un pas de minusvàlids;2
+B-27; ;Sant Joan De Llefià;05;2013;94-11;Estacionar un vehicle temps indefinit amb símptomes d abandonament  impedint altres estacionaments;5
+B-27; ;Sant Joan De Llefià;05;2013;94-12;Estacionar en un carril reservat a la circulació i afectar-la;3
+B-27; ;Sant Joan De Llefià;05;2013;94-13;Estacionar en una part de la via reservada al servei de determinats usuaris/es;5
+B-27; ;Sant Joan De Llefià;05;2013;94-17;Estacionar damunt la vorera;35
+B-27; ;Sant Joan De Llefià;05;2013;94-18;Estacionar en un gual;1
+B-27; ;Sant Joan De Llefià;05;2013;94-31;Estacionar sense tiquet de control d horari;1
+B-27; ;Sant Joan De Llefià;05;2013;94-36;Estacionar bloquejant un contenidor impedint o dificultant la seva utilització o desplaçament;1
+B-28; ;Sant Antoni De Llefià;05;2013;117-1;No utilitzar , el conductor/a, el cinturó de seguretat;1
+B-28; ;Sant Antoni De Llefià;05;2013;146-;No respectar semàfors circulars per a vehicles;1
+B-28; ;Sant Antoni De Llefià;05;2013;152-1;No obeir el senyal de circulació prohibida;1
+B-28; ;Sant Antoni De Llefià;05;2013;154-1;No obeir el senyal d estacionament prohibit;10
+B-28; ;Sant Antoni De Llefià;05;2013;154-4;No obeir el senyal d aturada prohibida;1
+B-28; ;Sant Antoni De Llefià;05;2013;16-;No trobo la descripció de la infracció;1
+B-28; ;Sant Antoni De Llefià;05;2013;20-1;Conduir un vehicle amb una concentració d alcohol en l aire espirat entre 0,25 i 0,50 mgs;1
+B-28; ;Sant Antoni De Llefià;05;2013;72-1;Incorporar-se a la circulació sense senyalitzar la maniobra;1
+B-28; ;Sant Antoni De Llefià;05;2013;91-12;Estacionar en una zona de càrrega i descàrrega obstaculitzant els vehicles autoritzats per a fer-ho;2
+B-28; ;Sant Antoni De Llefià;05;2013;91-13;Estacionar en una zona reservada al transport públic obstaculitzant els vehicles autoritzats per a fer-ho;3
+B-28; ;Sant Antoni De Llefià;05;2013;91-14;Estacionar damunt la vorera obstaculitzant el pas de vianants;3
+B-28; ;Sant Antoni De Llefià;05;2013;91-3;Estacionar en separadors, illes o altres elements de canalització del trànsit;1
+B-28; ;Sant Antoni De Llefià;05;2013;91-5;Estacionar en un pas de minusvàlids;10
+B-28; ;Sant Antoni De Llefià;05;2013;94-10;Estacionar en un pas de vianants;3
+B-28; ;Sant Antoni De Llefià;05;2013;94-11;Estacionar un vehicle temps indefinit amb símptomes d abandonament  impedint altres estacionaments;6
+B-28; ;Sant Antoni De Llefià;05;2013;94-12;Estacionar en un carril reservat a la circulació i afectar-la;4
+B-28; ;Sant Antoni De Llefià;05;2013;94-13;Estacionar en una part de la via reservada al servei de determinats usuaris/es;6
+B-28; ;Sant Antoni De Llefià;05;2013;94-14;Estacionar a prop d una intersecció i dificultar el gir;5
+B-28; ;Sant Antoni De Llefià;05;2013;94-16;Estacionar en doble fila;2
+B-28; ;Sant Antoni De Llefià;05;2013;94-17;Estacionar damunt la vorera;24
+B-28; ;Sant Antoni De Llefià;05;2013;94-19;Estacionar en una zona de càrrega i descàrrega;12
+B-28; ;Sant Antoni De Llefià;05;2013;94-20;Estacionar en una zona senyalitzada per a l ús exclusiu de minusvàlids;1
+B-28; ;Sant Antoni De Llefià;05;2013;94-22;Estacionar en una zona reservada al transport públic;4
+B-28; ;Sant Antoni De Llefià;05;2013;94-9;Estacionar en una intersecció;10
+B-29; ;Sant Mori De Llefià;05;2013;117-1;No utilitzar , el conductor/a, el cinturó de seguretat;1
+B-29; ;Sant Mori De Llefià;05;2013;146-;No respectar semàfors circulars per a vehicles;1
+B-29; ;Sant Mori De Llefià;05;2013;154-1;No obeir el senyal d estacionament prohibit;11
+B-29; ;Sant Mori De Llefià;05;2013;154-4;No obeir el senyal d aturada prohibida;1
+B-29; ;Sant Mori De Llefià;05;2013;18-2;Conduir sense mantenir el camp necessari de visió;5
+B-29; ;Sant Mori De Llefià;05;2013;3-1;Conduïr de forma negligent;1
+B-29; ;Sant Mori De Llefià;05;2013;78-1;Canviar el sentit de la marxa en un lloc inadequat;1
+B-29; ;Sant Mori De Llefià;05;2013;91-1;Estacionar en una sortida d emergència;26
+B-29; ;Sant Mori De Llefià;05;2013;91-11;Estacionar en un gual obstaculitzant totalment la sortida de vehicles;1
+B-29; ;Sant Mori De Llefià;05;2013;91-14;Estacionar damunt la vorera obstaculitzant el pas de vianants;1
+B-29; ;Sant Mori De Llefià;05;2013;91-18;Estacionar en un carril obstaculitzant la circulació;2
+B-29; ;Sant Mori De Llefià;05;2013;91-2;No trobo la descripció de la infracció;2
+B-29; ;Sant Mori De Llefià;05;2013;91-3;Estacionar en separadors, illes o altres elements de canalització del trànsit;8
+B-29; ;Sant Mori De Llefià;05;2013;91-4;Estacionar en el centre de la calçada;2
+B-29; ;Sant Mori De Llefià;05;2013;91-5;Estacionar en un pas de minusvàlids;1
+B-29; ;Sant Mori De Llefià;05;2013;91-6;Aturar-se i obstaculitzar greument la circulació;1
+B-29; ;Sant Mori De Llefià;05;2013;91-9;Estacionar i provocar un risc per a la resta d usuaris/es;1
+B-29; ;Sant Mori De Llefià;05;2013;94-10;Estacionar en un pas de vianants;1
+B-29; ;Sant Mori De Llefià;05;2013;94-11;Estacionar un vehicle temps indefinit amb símptomes d abandonament  impedint altres estacionaments;5
+B-29; ;Sant Mori De Llefià;05;2013;94-12;Estacionar en un carril reservat a la circulació i afectar-la;47
+B-29; ;Sant Mori De Llefià;05;2013;94-13;Estacionar en una part de la via reservada al servei de determinats usuaris/es;14
+B-29; ;Sant Mori De Llefià;05;2013;94-14;Estacionar a prop d una intersecció i dificultar el gir;1
+B-29; ;Sant Mori De Llefià;05;2013;94-15;Estacionar a prop d una intersecció i dificultar la visibilitat;3
+B-29; ;Sant Mori De Llefià;05;2013;94-17;Estacionar damunt la vorera;8
+B-29; ;Sant Mori De Llefià;05;2013;94-18;Estacionar en un gual;4
+B-29; ;Sant Mori De Llefià;05;2013;94-2;Aturar-se en un carril reservat a la circulació i afectar-la;18
+B-29; ;Sant Mori De Llefià;05;2013;94-20;Estacionar en una zona senyalitzada per a l ús exclusiu de minusvàlids;1
+B-29; ;Sant Mori De Llefià;05;2013;94-21;Estacionar en una zona per a vianants;1
+B-29; ;Sant Mori De Llefià;05;2013;94-9;Estacionar en una intersecció;4
+B-3; ;Dalt De La Vila;05;2013;146-;No respectar semàfors circulars per a vehicles;1
+B-3; ;Dalt De La Vila;05;2013;154-;No respectar altres senyals de prohibició o restricció;1
+B-3; ;Dalt De La Vila;05;2013;154-1;No obeir el senyal d estacionament prohibit;11
+B-3; ;Dalt De La Vila;05;2013;18-2;Conduir sense mantenir el camp necessari de visió;1
+B-3; ;Dalt De La Vila;05;2013;78-1;Canviar el sentit de la marxa en un lloc inadequat;2
+B-3; ;Dalt De La Vila;05;2013;91-14;Estacionar damunt la vorera obstaculitzant el pas de vianants;1
+B-3; ;Dalt De La Vila;05;2013;91-18;Estacionar en un carril obstaculitzant la circulació;1
+B-3; ;Dalt De La Vila;05;2013;94-12;Estacionar en un carril reservat a la circulació i afectar-la;12
+B-3; ;Dalt De La Vila;05;2013;94-13;Estacionar en una part de la via reservada al servei de determinats usuaris/es;2
+B-3; ;Dalt De La Vila;05;2013;94-14;Estacionar a prop d una intersecció i dificultar el gir;4
+B-3; ;Dalt De La Vila;05;2013;94-17;Estacionar damunt la vorera;6
+B-3; ;Dalt De La Vila;05;2013;94-18;Estacionar en un gual;1
+B-3; ;Dalt De La Vila;05;2013;94-19;Estacionar en una zona de càrrega i descàrrega;3
+B-3; ;Dalt De La Vila;05;2013;94-2;Aturar-se en un carril reservat a la circulació i afectar-la;3
+B-3; ;Dalt De La Vila;05;2013;94-20;Estacionar en una zona senyalitzada per a l ús exclusiu de minusvàlids;1
+B-3; ;Dalt De La Vila;05;2013;94-21;Estacionar en una zona per a vianants;11
+B-3; ;Dalt De La Vila;05;2013;94-31;Estacionar sense tiquet de control d horari;219
+B-3; ;Dalt De La Vila;05;2013;94-32;Estacionar i sobrepassar el temps del tiquet de control d horari;101
+B-3; ;Dalt De La Vila;05;2013;94-33;Estacionar i sobrepassar el temps màxim autoritzat;24
+B-3; ;Dalt De La Vila;05;2013;94-34;Estacionar amb el tiquet de control d horari sense que es vegi;7
+B-3; ;Dalt De La Vila;05;2013;94-9;Estacionar en una intersecció;1
+B-30; ;Artigas;05;2013;65-;No trobo la descripció de la infracció;1
+B-30; ;Artigas;05;2013;91-1;Estacionar en una sortida d emergència;17
+B-30; ;Artigas;05;2013;91-11;Estacionar en un gual obstaculitzant totalment la sortida de vehicles;2
+B-30; ;Artigas;05;2013;91-14;Estacionar damunt la vorera obstaculitzant el pas de vianants;3
+B-30; ;Artigas;05;2013;91-18;Estacionar en un carril obstaculitzant la circulació;7
+B-30; ;Artigas;05;2013;94-11;Estacionar un vehicle temps indefinit amb símptomes d abandonament  impedint altres estacionaments;1
+B-30; ;Artigas;05;2013;94-12;Estacionar en un carril reservat a la circulació i afectar-la;17
+B-30; ;Artigas;05;2013;94-13;Estacionar en una part de la via reservada al servei de determinats usuaris/es;1
+B-30; ;Artigas;05;2013;94-16;Estacionar en doble fila;3
+B-30; ;Artigas;05;2013;94-18;Estacionar en un gual;2
+B-30; ;Artigas;05;2013;94-2;Aturar-se en un carril reservat a la circulació i afectar-la;1
+B-30; ;Artigas;05;2013;94-3;Aturar-se en una part de la via reservada al servei de determinats usuaris/es;1
+B-30; ;Artigas;05;2013;94-9;Estacionar en una intersecció;1
+B-31; ;Sant Roc;05;2013;117-1;No utilitzar , el conductor/a, el cinturó de seguretat;2
+B-31; ;Sant Roc;05;2013;146-3;No detenir-se, podent-ho fer sense perill, davant la llum groga no intermitent d un semàfor;1
+B-31; ;Sant Roc;05;2013;154-;No respectar altres senyals de prohibició o restricció;6
+B-31; ;Sant Roc;05;2013;154-1;No obeir el senyal d estacionament prohibit;27
+B-31; ;Sant Roc;05;2013;154-2;No obeir el senyal de gir prohibit;2
+B-31; ;Sant Roc;05;2013;159-;No respectar senyals d indicacions generals;1
+B-31; ;Sant Roc;05;2013;18-2;Conduir sense mantenir el camp necessari de visió;5
+B-31; ;Sant Roc;05;2013;3-1;Conduïr de forma negligent;1
+B-31; ;Sant Roc;05;2013;78-1;Canviar el sentit de la marxa en un lloc inadequat;1
+B-31; ;Sant Roc;05;2013;9-;Transportar un nombre de persones superior al de places autoritzades;1
+B-31; ;Sant Roc;05;2013;91-1;Estacionar en una sortida d emergència;13
+B-31; ;Sant Roc;05;2013;91-10;Estacionar en doble fila obstaculitzant la circulació;5
+B-31; ;Sant Roc;05;2013;91-14;Estacionar damunt la vorera obstaculitzant el pas de vianants;2
+B-31; ;Sant Roc;05;2013;91-16;Estacionar en un pas de vianants i impedir-ne el pas;1
+B-31; ;Sant Roc;05;2013;91-18;Estacionar en un carril obstaculitzant la circulació;6
+B-31; ;Sant Roc;05;2013;91-3;Estacionar en separadors, illes o altres elements de canalització del trànsit;1
+B-31; ;Sant Roc;05;2013;91-5;Estacionar en un pas de minusvàlids;1
+B-31; ;Sant Roc;05;2013;94-10;Estacionar en un pas de vianants;2
+B-31; ;Sant Roc;05;2013;94-11;Estacionar un vehicle temps indefinit amb símptomes d abandonament  impedint altres estacionaments;3
+B-31; ;Sant Roc;05;2013;94-12;Estacionar en un carril reservat a la circulació i afectar-la;21
+B-31; ;Sant Roc;05;2013;94-13;Estacionar en una part de la via reservada al servei de determinats usuaris/es;76
+B-31; ;Sant Roc;05;2013;94-14;Estacionar a prop d una intersecció i dificultar el gir;1
+B-31; ;Sant Roc;05;2013;94-16;Estacionar en doble fila;18
+B-31; ;Sant Roc;05;2013;94-17;Estacionar damunt la vorera;2
+B-31; ;Sant Roc;05;2013;94-2;Aturar-se en un carril reservat a la circulació i afectar-la;1
+B-31; ;Sant Roc;05;2013;94-20;Estacionar en una zona senyalitzada per a l ús exclusiu de minusvàlids;2
+B-31; ;Sant Roc;05;2013;94-4;Aturar-se en una intersecció;1
+B-32; ;Congrés;05;2013;146-;No respectar semàfors circulars per a vehicles;1
+B-32; ;Congrés;05;2013;18-2;Conduir sense mantenir el camp necessari de visió;1
+B-32; ;Congrés;05;2013;75-1;Canviar de direcció sense aproximar-se a la vora corresponent;1
+B-32; ;Congrés;05;2013;91-1;Estacionar en una sortida d emergència;1
+B-32; ;Congrés;05;2013;91-11;Estacionar en un gual obstaculitzant totalment la sortida de vehicles;1
+B-32; ;Congrés;05;2013;91-18;Estacionar en un carril obstaculitzant la circulació;1
+B-32; ;Congrés;05;2013;94-11;Estacionar un vehicle temps indefinit amb símptomes d abandonament  impedint altres estacionaments;2
+B-32; ;Congrés;05;2013;94-12;Estacionar en un carril reservat a la circulació i afectar-la;2
+B-32; ;Congrés;05;2013;94-16;Estacionar en doble fila;10
+B-32; ;Congrés;05;2013;94-18;Estacionar en un gual;1
+B-33; ;El Remei;05;2013;117-1;No utilitzar , el conductor/a, el cinturó de seguretat;1
+B-33; ;El Remei;05;2013;154-;No respectar altres senyals de prohibició o restricció;1
+B-33; ;El Remei;05;2013;154-1;No obeir el senyal d estacionament prohibit;17
+B-33; ;El Remei;05;2013;91-5;Estacionar en un pas de minusvàlids;10
+B-33; ;El Remei;05;2013;94-11;Estacionar un vehicle temps indefinit amb símptomes d abandonament  impedint altres estacionaments;5
+B-33; ;El Remei;05;2013;94-12;Estacionar en un carril reservat a la circulació i afectar-la;2
+B-33; ;El Remei;05;2013;94-13;Estacionar en una part de la via reservada al servei de determinats usuaris/es;3
+B-33; ;El Remei;05;2013;94-15;Estacionar a prop d una intersecció i dificultar la visibilitat;1
+B-33; ;El Remei;05;2013;94-17;Estacionar damunt la vorera;1
+B-33; ;El Remei;05;2013;94-2;Aturar-se en un carril reservat a la circulació i afectar-la;9
+B-33; ;El Remei;05;2013;94-5;Aturar-se i impedir la visibilitat de senyalització;1
+B-34; ;La Mora;05;2013;117-1;No utilitzar , el conductor/a, el cinturó de seguretat;2
+B-34; ;La Mora;05;2013;146-;No respectar semàfors circulars per a vehicles;2
+B-34; ;La Mora;05;2013;154-;No respectar altres senyals de prohibició o restricció;1
+B-34; ;La Mora;05;2013;154-1;No obeir el senyal d estacionament prohibit;1
+B-34; ;La Mora;05;2013;154-2;No obeir el senyal de gir prohibit;1
+B-34; ;La Mora;05;2013;154-4;No obeir el senyal d aturada prohibida;1
+B-34; ;La Mora;05;2013;167-;No respectar marques blanques longitudinals;1
+B-34; ;La Mora;05;2013;171-;No respectar marques d altres colors;1
+B-34; ;La Mora;05;2013;9-;Transportar un nombre de persones superior al de places autoritzades;2
+B-34; ;La Mora;05;2013;91-5;Estacionar en un pas de minusvàlids;2
+B-34; ;La Mora;05;2013;94-10;Estacionar en un pas de vianants;4
+B-34; ;La Mora;05;2013;94-11;Estacionar un vehicle temps indefinit amb símptomes d abandonament  impedint altres estacionaments;3
+B-34; ;La Mora;05;2013;94-13;Estacionar en una part de la via reservada al servei de determinats usuaris/es;1
+B-34; ;La Mora;05;2013;94-14;Estacionar a prop d una intersecció i dificultar el gir;1
+B-34; ;La Mora;05;2013;94-16;Estacionar en doble fila;2
+B-34; ;La Mora;05;2013;94-22;Estacionar en una zona reservada al transport públic;1
+B-4; ;Gorg;05;2013;10-1;No trobo la descripció de la infracció;1
+B-4; ;Gorg;05;2013;146-;No respectar semàfors circulars per a vehicles;1
+B-4; ;Gorg;05;2013;154-;No respectar altres senyals de prohibició o restricció;3
+B-4; ;Gorg;05;2013;154-1;No obeir el senyal d estacionament prohibit;2
+B-4; ;Gorg;05;2013;154-2;No obeir el senyal de gir prohibit;1
+B-4; ;Gorg;05;2013;159-;No respectar senyals d indicacions generals;6
+B-4; ;Gorg;05;2013;171-;No respectar marques d altres colors;1
+B-4; ;Gorg;05;2013;20-1;Conduir un vehicle amb una concentració d alcohol en l aire espirat entre 0,25 i 0,50 mgs;2
+B-4; ;Gorg;05;2013;3-1;Conduïr de forma negligent;1
+B-4; ;Gorg;05;2013;91-1;Estacionar en una sortida d emergència;1
+B-4; ;Gorg;05;2013;91-14;Estacionar damunt la vorera obstaculitzant el pas de vianants;1
+B-4; ;Gorg;05;2013;91-3;Estacionar en separadors, illes o altres elements de canalització del trànsit;3
+B-4; ;Gorg;05;2013;91-5;Estacionar en un pas de minusvàlids;10
+B-4; ;Gorg;05;2013;91-8;Estacionar i obstaculitzar greument la circulació;1
+B-4; ;Gorg;05;2013;94-10;Estacionar en un pas de vianants;3
+B-4; ;Gorg;05;2013;94-11;Estacionar un vehicle temps indefinit amb símptomes d abandonament  impedint altres estacionaments;8
+B-4; ;Gorg;05;2013;94-12;Estacionar en un carril reservat a la circulació i afectar-la;20
+B-4; ;Gorg;05;2013;94-13;Estacionar en una part de la via reservada al servei de determinats usuaris/es;14
+B-4; ;Gorg;05;2013;94-14;Estacionar a prop d una intersecció i dificultar el gir;2
+B-4; ;Gorg;05;2013;94-15;Estacionar a prop d una intersecció i dificultar la visibilitat;1
+B-4; ;Gorg;05;2013;94-16;Estacionar en doble fila;1
+B-4; ;Gorg;05;2013;94-17;Estacionar damunt la vorera;6
+B-4; ;Gorg;05;2013;94-18;Estacionar en un gual;2
+B-4; ;Gorg;05;2013;94-2;Estacionar sobre la vorera;3
+B-4; ;Gorg;05;2013;94-2;Aturar-se en un carril reservat a la circulació i afectar-la;3
+B-4; ;Gorg;05;2013;94-2;No trobo la descripció de la infracció;1
+B-4; ;Gorg;05;2013;94-21;Estacionar en una zona per a vianants;5
+B-4; ;Gorg;05;2013;94-31;Estacionar sense tiquet de control d horari;8
+B-4; ;Gorg;05;2013;94-32;Estacionar i sobrepassar el temps del tiquet de control d horari;1
+B-4; ;Gorg;05;2013;94-33;Estacionar i sobrepassar el temps màxim autoritzat;1
+B-4; ;Gorg;05;2013;94-9;Estacionar en una intersecció;4
+B-5; ;Progrés;05;2013;117-1;No utilitzar , el conductor/a, el cinturó de seguretat;2
+B-5; ;Progrés;05;2013;117-4;Circular amb un menor de 12 anys en el seient davanter del vehicle sense utilitzar un dispositiu homologat a l efecte;1
+B-5; ;Progrés;05;2013;121-6;Circular amb un vehicle per una zona de vianants;1
+B-5; ;Progrés;05;2013;146-;No respectar semàfors circulars per a vehicles;4
+B-5; ;Progrés;05;2013;154-;No respectar altres senyals de prohibició o restricció;2
+B-5; ;Progrés;05;2013;154-1;No obeir el senyal d estacionament prohibit;4
+B-5; ;Progrés;05;2013;155-;No respectar senyals d obligació;1
+B-5; ;Progrés;05;2013;159-;No respectar senyals d indicacions generals;2
+B-5; ;Progrés;05;2013;171-;No respectar marques d altres colors;3
+B-5; ;Progrés;05;2013;18-2;Conduir sense mantenir el camp necessari de visió;1
+B-5; ;Progrés;05;2013;56-2;No cedir pas en intersecció regulada per semàfors i obligar un altre conductor/a a maniobrar bruscament;1
+B-5; ;Progrés;05;2013;91-1;Estacionar en una sortida d emergència;3
+B-5; ;Progrés;05;2013;91-11;Estacionar en un gual obstaculitzant totalment la sortida de vehicles;2
+B-5; ;Progrés;05;2013;91-12;Estacionar en una zona de càrrega i descàrrega obstaculitzant els vehicles autoritzats per a fer-ho;1
+B-5; ;Progrés;05;2013;91-13;Estacionar en una zona reservada al transport públic obstaculitzant els vehicles autoritzats per a fer-ho;1
+B-5; ;Progrés;05;2013;91-16;Estacionar en un pas de vianants i impedir-ne el pas;1
+B-5; ;Progrés;05;2013;91-2;No trobo la descripció de la infracció;1
+B-5; ;Progrés;05;2013;91-3;Estacionar en separadors, illes o altres elements de canalització del trànsit;1
+B-5; ;Progrés;05;2013;91-5;Estacionar en un pas de minusvàlids;12
+B-5; ;Progrés;05;2013;94-10;Estacionar en un pas de vianants;1
+B-5; ;Progrés;05;2013;94-11;Estacionar un vehicle temps indefinit amb símptomes d abandonament  impedint altres estacionaments;7
+B-5; ;Progrés;05;2013;94-12;Estacionar en un carril reservat a la circulació i afectar-la;6
+B-5; ;Progrés;05;2013;94-13;Estacionar en una part de la via reservada al servei de determinats usuaris/es;29
+B-5; ;Progrés;05;2013;94-14;Estacionar a prop d una intersecció i dificultar el gir;4
+B-5; ;Progrés;05;2013;94-15;Estacionar a prop d una intersecció i dificultar la visibilitat;1
+B-5; ;Progrés;05;2013;94-17;Estacionar damunt la vorera;11
+B-5; ;Progrés;05;2013;94-18;Estacionar en un gual;5
+B-5; ;Progrés;05;2013;94-19;Estacionar en una zona de càrrega i descàrrega;11
+B-5; ;Progrés;05;2013;94-2;No trobo la descripció de la infracció;3
+B-5; ;Progrés;05;2013;94-2;Estacionar sobre la vorera;2
+B-5; ;Progrés;05;2013;94-20;Estacionar en una zona senyalitzada per a l ús exclusiu de minusvàlids;1
+B-5; ;Progrés;05;2013;94-21;Estacionar en una zona per a vianants;13
+B-5; ;Progrés;05;2013;94-22;Estacionar en una zona reservada al transport públic;2
+B-5; ;Progrés;05;2013;94-31;Estacionar sense tiquet de control d horari;186
+B-5; ;Progrés;05;2013;94-32;Estacionar i sobrepassar el temps del tiquet de control d horari;51
+B-5; ;Progrés;05;2013;94-33;Estacionar i sobrepassar el temps màxim autoritzat;17
+B-5; ;Progrés;05;2013;94-34;Estacionar amb el tiquet de control d horari sense que es vegi;8
+B-5; ;Progrés;05;2013;94-9;Estacionar en una intersecció;4
+B-6; ;Raval;05;2013;117-1;No utilitzar , el conductor/a, el cinturó de seguretat;1
+B-6; ;Raval;05;2013;146-;No respectar semàfors circulars per a vehicles;6
+B-6; ;Raval;05;2013;154-;No respectar altres senyals de prohibició o restricció;1
+B-6; ;Raval;05;2013;154-1;No obeir el senyal d estacionament prohibit;1
+B-6; ;Raval;05;2013;154-2;No obeir el senyal de gir prohibit;1
+B-6; ;Raval;05;2013;171-;No respectar marques d altres colors;1
+B-6; ;Raval;05;2013;18-2;Conduir sense mantenir el camp necessari de visió;5
+B-6; ;Raval;05;2013;74-1;Girar sense avisar amb temps suficient els conductor/es i els vehicles que cirulen darrere;1
+B-6; ;Raval;05;2013;78-1;Canviar el sentit de la marxa en un lloc inadequat;1
+B-6; ;Raval;05;2013;9-;Transportar un nombre de persones superior al de places autoritzades;1
+B-6; ;Raval;05;2013;91-1;Estacionar en una sortida d emergència;12
+B-6; ;Raval;05;2013;91-14;Estacionar damunt la vorera obstaculitzant el pas de vianants;3
+B-6; ;Raval;05;2013;91-18;Estacionar en un carril obstaculitzant la circulació;3
+B-6; ;Raval;05;2013;91-2;Estacionar i impedir el moviment de vehicles degudament estacionats;1
+B-6; ;Raval;05;2013;91-2;No trobo la descripció de la infracció;3
+B-6; ;Raval;05;2013;91-3;Estacionar en separadors, illes o altres elements de canalització del trànsit;6
+B-6; ;Raval;05;2013;91-5;Estacionar en un pas de minusvàlids;6
+B-6; ;Raval;05;2013;94-11;Estacionar un vehicle temps indefinit amb símptomes d abandonament  impedint altres estacionaments;4
+B-6; ;Raval;05;2013;94-12;Estacionar en un carril reservat a la circulació i afectar-la;34
+B-6; ;Raval;05;2013;94-13;Estacionar en una part de la via reservada al servei de determinats usuaris/es;13
+B-6; ;Raval;05;2013;94-14;Estacionar a prop d una intersecció i dificultar el gir;1
+B-6; ;Raval;05;2013;94-17;Estacionar damunt la vorera;4
+B-6; ;Raval;05;2013;94-18;Estacionar en un gual;1
+B-6; ;Raval;05;2013;94-19;Estacionar en una zona de càrrega i descàrrega;3
+B-6; ;Raval;05;2013;94-2;No trobo la descripció de la infracció;4
+B-6; ;Raval;05;2013;94-2;Estacionar sobre la vorera;1
+B-6; ;Raval;05;2013;94-2;Aturar-se en un carril reservat a la circulació i afectar-la;37
+B-6; ;Raval;05;2013;94-21;Estacionar en una zona per a vianants;1
+B-6; ;Raval;05;2013;94-22;Estacionar en una zona reservada al transport públic;1
+B-6; ;Raval;05;2013;94-9;Estacionar en una intersecció;2
+B-7; ;Can Claris;05;2013;160-;No respectar senyals de carrils;1
+B-7; ;Can Claris;05;2013;91-11;Estacionar en un gual obstaculitzant totalment la sortida de vehicles;2
+B-7; ;Can Claris;05;2013;91-14;Estacionar damunt la vorera obstaculitzant el pas de vianants;1
+B-7; ;Can Claris;05;2013;91-18;Estacionar en un carril obstaculitzant la circulació;1
+B-7; ;Can Claris;05;2013;91-2;No trobo la descripció de la infracció;3
+B-7; ;Can Claris;05;2013;94-12;Estacionar en un carril reservat a la circulació i afectar-la;2
+B-7; ;Can Claris;05;2013;94-13;Estacionar en una part de la via reservada al servei de determinats usuaris/es;1
+B-7; ;Can Claris;05;2013;94-17;Estacionar damunt la vorera;3
+B-7; ;Can Claris;05;2013;94-18;Estacionar en un gual;1
+B-7; ;Can Claris;05;2013;94-2;No trobo la descripció de la infracció;1
+B-7; ;Can Claris;05;2013;94-21;Estacionar en una zona per a vianants;5
+B-8; ;Canyet;05;2013;94-2;Estacionar sobre la vorera;1
+B-8; ;Canyet;05;2013;94-31;Estacionar sense tiquet de control d horari;1
+B-9; ;Bufalà;05;2013;129-1;No facilitar-ne la identitat quan s està implicat en un accident de circulació;1
+B-9; ;Bufalà;05;2013;154-2;No obeir el senyal de gir prohibit;1
+B-9; ;Bufalà;05;2013;18-2;Conduir sense mantenir el camp necessari de visió;1
+B-9; ;Bufalà;05;2013;91-1;Estacionar en una sortida d emergència;4
+B-9; ;Bufalà;05;2013;91-14;Estacionar damunt la vorera obstaculitzant el pas de vianants;2
+B-9; ;Bufalà;05;2013;91-15;Estacionar en una zona per als vianants i impedir-ne el pas;1
+B-9; ;Bufalà;05;2013;91-16;Estacionar en un pas de vianants i impedir-ne el pas;3
+B-9; ;Bufalà;05;2013;91-18;Estacionar en un carril obstaculitzant la circulació;1
+B-9; ;Bufalà;05;2013;91-2;Estacionar i impedir el moviment de vehicles degudament estacionats;1
+B-9; ;Bufalà;05;2013;91-2;No trobo la descripció de la infracció;1
+B-9; ;Bufalà;05;2013;91-4;Estacionar en el centre de la calçada;1
+B-9; ;Bufalà;05;2013;91-5;Estacionar en un pas de minusvàlids;7
+B-9; ;Bufalà;05;2013;94-10;Estacionar en un pas de vianants;1
+B-9; ;Bufalà;05;2013;94-11;Estacionar un vehicle temps indefinit amb símptomes d abandonament  impedint altres estacionaments;5
+B-9; ;Bufalà;05;2013;94-12;Estacionar en un carril reservat a la circulació i afectar-la;14
+B-9; ;Bufalà;05;2013;94-13;Estacionar en una part de la via reservada al servei de determinats usuaris/es;14
+B-9; ;Bufalà;05;2013;94-14;Estacionar a prop d una intersecció i dificultar el gir;1
+B-9; ;Bufalà;05;2013;94-15;Estacionar a prop d una intersecció i dificultar la visibilitat;2
+B-9; ;Bufalà;05;2013;94-17;Estacionar damunt la vorera;11
+B-9; ;Bufalà;05;2013;94-18;Estacionar en un gual;1
+B-9; ;Bufalà;05;2013;94-2;Aturar-se en un carril reservat a la circulació i afectar-la;1
+B-9; ;Bufalà;05;2013;94-20;Estacionar en una zona senyalitzada per a l ús exclusiu de minusvàlids;2
+B-9; ;Bufalà;05;2013;94-9;Estacionar en una intersecció;9
+SENSE IDENTIFICAR; ;;05;2013;117-1;No utilitzar , el conductor/a, el cinturó de seguretat;3
+SENSE IDENTIFICAR; ;;05;2013;121-6;Circular amb un vehicle per una zona de vianants;1
+SENSE IDENTIFICAR; ;;05;2013;143-1;No obeir les ordres de l agent de circulació;3
+SENSE IDENTIFICAR; ;;05;2013;146-;No respectar semàfors circulars per a vehicles;2
+SENSE IDENTIFICAR; ;;05;2013;146-3;No detenir-se, podent-ho fer sense perill, davant la llum groga no intermitent d un semàfor;2
+SENSE IDENTIFICAR; ;;05;2013;151-2;No trobo la descripció de la infracció;1
+SENSE IDENTIFICAR; ;;05;2013;154-;No respectar altres senyals de prohibició o restricció;4
+SENSE IDENTIFICAR; ;;05;2013;154-1;No obeir el senyal d estacionament prohibit;8
+SENSE IDENTIFICAR; ;;05;2013;154-4;No obeir el senyal d aturada prohibida;1
+SENSE IDENTIFICAR; ;;05;2013;155-;No respectar senyals d obligació;4
+SENSE IDENTIFICAR; ;;05;2013;159-;No respectar senyals d indicacions generals;2
+SENSE IDENTIFICAR; ;;05;2013;160-1;No respectar el carril reservat als autobusos o taxis;5
+SENSE IDENTIFICAR; ;;05;2013;167-1;No respectar la línia longitudinal contínua;2
+SENSE IDENTIFICAR; ;;05;2013;170-;No respectar altres marques i inscripcions;1
+SENSE IDENTIFICAR; ;;05;2013;18-2;Conduir sense mantenir el camp necessari de visió;2
+SENSE IDENTIFICAR; ;;05;2013;79-1;Canviar el sentit de la marxar en un tram de visibilitat limitada;1
+SENSE IDENTIFICAR; ;;05;2013;9-;Transportar un nombre de persones superior al de places autoritzades;3
+SENSE IDENTIFICAR; ;;05;2013;91-1;Estacionar en una sortida d emergència;7
+SENSE IDENTIFICAR; ;;05;2013;91-13;Estacionar en una zona reservada al transport públic obstaculitzant els vehicles autoritzats per a fer-ho;2
+SENSE IDENTIFICAR; ;;05;2013;91-14;Estacionar damunt la vorera obstaculitzant el pas de vianants;27
+SENSE IDENTIFICAR; ;;05;2013;91-16;Estacionar en un pas de vianants i impedir-ne el pas;1
+SENSE IDENTIFICAR; ;;05;2013;91-2;No trobo la descripció de la infracció;2
+SENSE IDENTIFICAR; ;;05;2013;91-2;Estacionar i impedir el moviment de vehicles degudament estacionats;1
+SENSE IDENTIFICAR; ;;05;2013;91-3;Estacionar en separadors, illes o altres elements de canalització del trànsit;7
+SENSE IDENTIFICAR; ;;05;2013;91-5;Estacionar en un pas de minusvàlids;6
+SENSE IDENTIFICAR; ;;05;2013;94-10;Estacionar en un pas de vianants;8
+SENSE IDENTIFICAR; ;;05;2013;94-11;Estacionar un vehicle temps indefinit amb símptomes d abandonament  impedint altres estacionaments;8
+SENSE IDENTIFICAR; ;;05;2013;94-12;Estacionar en un carril reservat a la circulació i afectar-la;32
+SENSE IDENTIFICAR; ;;05;2013;94-13;Estacionar en una part de la via reservada al servei de determinats usuaris/es;28
+SENSE IDENTIFICAR; ;;05;2013;94-14;Estacionar a prop d una intersecció i dificultar el gir;5
+SENSE IDENTIFICAR; ;;05;2013;94-15;Estacionar a prop d una intersecció i dificultar la visibilitat;3
+SENSE IDENTIFICAR; ;;05;2013;94-17;Estacionar damunt la vorera;147
+SENSE IDENTIFICAR; ;;05;2013;94-18;Estacionar en un gual;2
+SENSE IDENTIFICAR; ;;05;2013;94-19;Estacionar en una zona de càrrega i descàrrega;4
+SENSE IDENTIFICAR; ;;05;2013;94-2;Estacionar sobre la vorera;2
+SENSE IDENTIFICAR; ;;05;2013;94-2;Aturar-se en un carril reservat a la circulació i afectar-la;813
+SENSE IDENTIFICAR; ;;05;2013;94-21;Estacionar en una zona per a vianants;80
+SENSE IDENTIFICAR; ;;05;2013;94-22;Estacionar en una zona reservada al transport públic;1
+SENSE IDENTIFICAR; ;;05;2013;94-3;Aturar-se en una part de la via reservada al servei de determinats usuaris/es;2
+SENSE IDENTIFICAR; ;;05;2013;94-31;Estacionar sense tiquet de control d horari;4
+SENSE IDENTIFICAR; ;;05;2013;94-32;Estacionar i sobrepassar el temps del tiquet de control d horari;1
+SENSE IDENTIFICAR; ;;05;2013;94-40;Aturar-se en una zona reservada al transport públic;24
+SENSE IDENTIFICAR; ;;05;2013;94-9;Estacionar en una intersecció;13

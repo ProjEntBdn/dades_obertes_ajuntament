@@ -1,0 +1,117 @@
+﻿CODI_DIVISIO_TERRITORIAL;BARRI;NOM;TIPUS;ADREÇA;ESTIL;DATACIO;PROPIETAT;TIPOLOGIA
+B-03;Canyet;Turó d en Boscà (B-1);Bé cultural d interés nacional;Turó d en Boscà;Ibèric;VI-II AC;Privada;Parc arqueològic
+B-03;Canyet;Turó de les Maleses (B-2);;Turó de les Maleses;Ibèric;VI-II AC;Privada;Parc arqueològic
+B-01;Dalt de la Vila;Ciutat romana de Baetulo (B-3);Bé cultural d interés nacional;Ciutat romana de Baetulo;Romà;I-VI AC;Privada/Pública;Parc arqueològic
+B-03;Les Guixeres;Vil·la Turó d en Seriol (B-7);;Ctra. Conreria;Romà;I-VI AC;Privada;Parc arqueològic
+B-03;Bonavista;Vil·la Mas Boscà (B-6);;Mas Boscà;Romà;I-VI AC;Privada;Parc arqueològic
+B-03;Canyet;Vil·la Can Trias (B-5);;Ctra. Badalona a Montcada, Km. 4;Romà;I-VI AC;Privada;Parc arqueològic
+B-08;Montigalà;Vil·la Ca l Alemany (B-4);;Camí de Ca l Alemany;Romà;I-VI AC;Privada;Parc arqueològic
+B-01;Dalt de la Vila;Casa c/ Dalt (F-26);Tipus II (amb possibilitats);c/ Dalt, 29;Gòtic;XV-XX;Privada;Habitatge
+B-03;Canyet;Sant Jeroni de la Murtra (A-1);Bé cultural d interés nacional;Camí del Monestir;Gòtic. Renaixement;XV-XVII;Privada;Religiós
+B-01;Dalt de la Vila;Torre Vella (D-1);Bé cultural d interés nacional;Plaça de Barberà, 13;Gòtic-Renaixement;XV-XVII;Privada;Ensenyament
+B-01;Canyadó;Can Canyadó (A-2);Bé cultural d interés nacional;c/ Pompeu Fabra, 28-50;Masia rur;XV-XVII;Pública;Centre cívic
+B-03;Bufalà;Ca l Andal (D-3);Masies urbanes;Av. Martí Pujol, 338;Masia rur;XV-XVIII;Privada;
+B-03;Canyet;Ca l Amigó (C-13);Masies rurals;Camí de Ca l Amigó;Masia rur;XV-XVIII;Privada;Habitatge
+B-03;Canyet;Cal Dimoni (C-16);Masies rurals;Camí de Cal Dimoni;Masia rur;XV-XVIII;Privada;Restaurant
+B-03;Canyet;Ca l Arquer (C-8);Masies rurals;Paratge de Pomar;Masia rur;XV-XVIII;Privada;Habitatge
+B-03;Canyet;Can Trons (C-4);Masies rurals;Camí de Can Trons;Masia rur;XVI-XVII;Privada;
+B-08;Montigalà;Can Bofi Vell (C-2);Bé cultural d interés nacional;c/ Sant Gregori;Masia rur;XVI-XVII;Pública;Ensenyament
+B-03;Canyet;Mas Oliver (C-15);Masies rurals;Camí del Mas Oliver;Masia rur;XVII-XX;Privada;Habitatge
+B-03;Bufalà;Can Barriga (C-12);Masies rurals;Av. Martí Pujol, 457;Masia rur;XIX;Pública;Ensenyament
+B-03;Canyet;Can Pujol (C-7);Masies rurals;Camí de la Carrerada;Masia rur seny;XIII-XVIII;Privada;Habitatge
+B-03;Canyet;Can Ferrater (C-6);Masies rurals;Carretera de Canyet;Masia rur seny;XV-XVIII;Privada;Habitatge
+B-03;Bonavista;Mas Boscà (C-9);Masies rurals;Paratge de Pomar, s/n;Masia rur seny;XVI-XIX;Privada;Habitatge
+B-03;Pomar de Dalt;Can Colomer (C-17);Masies rurals;Paratge de Pomar;Masia rur seny;XVI-XX;Privada;Habitatge
+B-03;Canyet;Torre Codina (C-3);Masies rurals;Carretera de Canyet;Masia rur seny;s XVI-XX;Pública;Usos en projecte
+B-03;Canyet;Can Miravitges (C-5);Masies rurals;Paratge de Pomar, 16;Masia rur seny;s XVII SM;Pública;Ensenyament i museu
+B-03;Canyet;Can Mora (C-11);Masies rurals;Camí del Monestir;Masia rur seny;s XVIII;Privada;Habitatge
+B-08;Montigalà;Can Butinyà (C-10);Masies rurals;Camí de Sant Jeroni ;Masia rur seny;s XVIII;Privada;Habitatge
+B-01;Dalt de la Vila;Can Planas i pl. Constitució (G-2);Conjunts urbans;c/ Barcelona, 1 i pl. Constitució;Masia urb; XV-XX;Privada/Pública;
+B-01;Dalt de la Vila;Rectoria de Sta. Maria (D-2);Masies urbanes;c/ Dalt, 47;Masia urb; XVII-XX;Privada;Religiós
+B-01;Coll i Pujol;Ca l Umbert (D-11);Masies urbanes;c/ Santa Bàrbara, 61;Masia urb; XVIII;Privada;Habitatge
+B-01;Dalt de la Vila;Can Blanch de les Eres (D-8);Masies urbanes;c/ Eres, 24-28;Masia urb; XVIII;Privada;Habitatge
+B-01;Dalt de la Vila;Can Rocasalva (D-10);Masies urbanes;Plaça de l¿Oli, 1;Masia urb; XVIII;Privada;Habitatge
+B-01;Dalt de la Vila;Masia Casas (D-5);Masies urbanes;c/ Sant Sebastià, 53;Masia urb; XVIII;Privada;Habitatge
+B-01;Dalt de la Vila;Can Farigola (D-7);Masies urbanes;c/ Eres, 1;Masia urb; XVIII;Privada;Habitatge
+B-01;Dalt de la Vila;Can Tiranasi (D-6);Masies urbanes;c/ Costa, 25;Masia urb; XVIII;Privada;Habitatge
+B-03;Mas Ram;Mas Ram (C-19);Masies rurals;c/ Palmeres, 5;Eclecticisme;XIV-XX;Privada;Ensenyament
+B-01;Centre;Casa Consistorial (E-1);Tipus I (representatius);Plaça de la Vila, 1;Eclecticisme;XIX SM;Pública;Administració map.
+B-01;Centre;Ca l Escanyaralets (F-17);Tipus II (amb possibilitats);La Rambla, 5;Eclecticisme;XIX SM;Privada;Habitatge
+B-01;Centre;Cor de Marina (F-4);Tipus II (amb possibilitats);La Rambla, 11;Eclecticisme;XIX SM;Privada;Seu d entitat
+B-01;Centre;Conjunt de la Rambla (G-3);Conjunts urbans;Passeig de la Rambla;Eclecticisme;XIX SM;Pública;Espai urbà
+B-01;Centre;Monument a Roca i Pi (J-3);Mobiliari urbà;Passeig de la Rambla;Eclecticisme;XIX SM;Pública;Monuments
+B-05;S.A. Llefià;Torre Mena (C-14) ;Masies rurals;Plaça de Trafalgar, s/n;Eclecticisme;XIX;Pública;Centre cívic
+B-01;Casagemes;Cementiri del Sant Crist (F-28);Tipus II (amb possibilitats);c/ Prim, s/n;Eclecticisme;XIX-XX;Pública;Funerari
+B-01;Centre;Monument a Evarist Arnús (J-5);Mobiliari urbà;Plaça del Dr. Niubó;Eclecticisme;XX PM;Pública;Monuments
+B-01;Centre;Monument a Anselm Clavé (J-6);Mobiliari urbà;Av. Sant Ignasi de Loiola;Eclecticisme;XX PM;Pública;Monuments
+B-02;Nova Lloreda;Can Cabanyes (C-18);Masies rurals;Rambla de Sant Joan, 77;Neoclassicisme;XVII SM;Pública;Centre cívic
+B-01;Casagemes;Ca l Arnús (C-20);Masies rurals;c/ Sant Bru, 205;Neoclassicisme;XIX;Pública;Usos en projecte
+B-01;Dalt de la Vila;Església de Sta. Maria (E-4);Tipus I (representatius);Plaça de Barberà, 1;Neoclassicisme;XX PM;Privada;Religiós
+B-03;Pomar de Dalt;Cal Comte (C-1);Bé cultural d interés nacional;Paratge de Pomar;Neogòtic;XIX;Privada;
+B-01;Dalt de la Vila;Casa Busquets (F-27);Tipus II (amb possibilitats);c/ Sant Felip i de Rosés, 41-43;Neogòtic;XX PM;Privada;Habitatge
+B-01;Centre;Església S. Josep (E-12);Tipus I (representatius);c/ Enric Borràs;Neogòtic;XX PM;Privada;Religiós
+B-01;Centre;Casa Cascante (F-20);Tipus II (amb possibilitats);c/ Canonge Baranera, 115;Neogòtic;XX PM;Privada;Habitatge
+B-01;Centre;Casa Pere Roselló (F-23);Tipus II (amb possibilitats);Av. Sant Ignasi de Loiola, 11-35;Neogòtic;XX PM;Privada;Oficines
+B-01;Centre;Col·legi Sant Andreu (E-2);Tipus I (representatius);c/ Arnús, 16-18;Neoromànic;XIX SM;Privada;Ensenyament
+B-01;Centre;Can Matamala (F-5);Tipus II (amb possibilitats);c/ Santa Madrona, 28;Modernisme;XIX SM;Privada;Habitatge
+B-03;Bufalà;Asil Roca i Pi (F-3);Tipus II (amb possibilitats);Av. Martí Pujol, 654;Modernisme;XIX SM;Privada;Residència d avis
+B-07;Progrés;Casa Agustí (E-3);Tipus I (representatius);Av. Marquès de Mont-roig, 33-35;Modernisme;XIX SM;Privada;Restaurant
+B-01;Coll i Pujol;Casa Pau Rodon (E-6);Tipus I (representatius);c/ Museu, 18;Modernisme;XX PM;Privada;Habitatge
+B-01;Casagemes;Tomba Bosch (J-4);Mobiliari urbà;Cementiri del Sant Crist;Modernisme;XX PM;Privada;Funerari
+B-01;Dalt de la Vila;Casa Domènech Planas (E-11);Tipus I (representatius);Av. Martí Pujol, 188-190;Modernisme;XX PM;Privada;Habitatge
+B-01;Dalt de la Vila;Casa Jaume Botey (E-10);Tipus I (representatius);c/ Gaietà Soler, 1;Modernisme;XX PM;Pública;Administració hospital
+B-01;Dalt de la Vila;Casa Gallent (F-29);Tipus II (amb possibilitats);c/ Temple, 27;Modernisme; XX PM;Privada;Seu de fundació
+B-01;Dalt de la Vila;Font pl. Pau Casals (J-2);Mobiliari urbà;Pl. Pau Casals;Modernisme;XX PM;Pública;Fonts
+B-01;Centre;Casa Pavillard (A-3);Bé cultural d interés nacional;Av. Martí Pujol, 23-25;Modernisme;XX PM;Privada;Oficines
+B-01;Centre;Casa Enric Mir (E-7);Tipus I (representatius);Av. Martí Pujol, 45-47;Modernisme;XX PM;Privada;Habitatge
+B-01;Centre;Casa Prat (E-13);Tipus I (representatius);c/ Mar, 15;Modernisme;XX PM;Privada;Habitatge
+B-01;Centre;Casa Andreu Clarós (E-5);Tipus I (representatius);c/ Pietat, 12;Modernisme;XX PM;Privada;Habitatge
+B-01;Centre;Casa Lluís Paquín (E-8);Tipus I (representatius);c/ Enric Borràs, 27;Modernisme;XX PM;Privada;Habitatge
+B-01;Centre;Casa Josep Giralt (Busquets) (E-9);Tipus I (representatius);c/ Temple, 25;Modernisme;XX PM;Privada;Habitatge
+B-01;Centre;Casa Gafarel·lo (F-13);Tipus II (amb possibilitats);c/ Enric Borràs, 16;Modernisme;XX PM;Privada;Habitatge
+B-01;Centre;Casa i taller Tolrà (F-11);Tipus II (amb possibilitats);c/ Enric Borràs, 19-25;Modernisme;XX PM;Privada;Habitatge
+B-01;Centre;Germans Maristes (F-12);Tipus II (amb possibilitats);c/ Temple, 15-19;Modernisme;XX PM;Privada;Oficines
+B-01;Centre;Can Casacuberta (F-10);Tipus II (amb possibilitats);c/ Anton Romeu, 48;Modernisme;XX PM;Pública;Biblioteca
+B-01;Centre;Casa Leprevost (F-9);Tipus II (amb possibilitats);Av. Martí Pujol, 37-39;Modernisme;XX PM;Pública;Ensenyament
+B-01;Centre;Farmàcia Serentill (I-1);Interiors locals comercials;c/ Mar, 23;Modernisme;XX PM;Privada;
+B-01;Centre;Casa Miquel Badia (F-7);Tipus II (amb possibilitats);c/ Sant Pere, 4;Modernisme;XX PM;Privada;
+B-07;Raval;Can Pepus (F-6);Tipus II (amb possibilitats);c/ Francesc Macià, 104;Modernisme;XX PM;Pública;Centre cívic
+B-07;Progrés;La Llauna (F-8);Tipus II (amb possibilitats);c/ Indústria, 89;Modernisme;XX PM;Pública;Ensenyament
+B-01;Centre;Farmàcia Surroca (I-4);Interiors locals comercials;c/ Mar, 76;Déco;XX PM;Privada;
+B-01;Centre;La Badalonesa. Mango (I-3);Interiors locals comercials;c/ Mar, 44;Déco;XX PM;Privada;
+B-01;Centre;Drogueria Boter (I-2);Interiors locals comercials;c/ Mar, 71;Déco;XX PM;Privada;
+B-01;Canyadó;Escola Lola Anglada (F-22);Tipus II (amb possibilitats);c/ Jacinto Benavente, 13;Noucentisme;XX PM;Pública;Ensenyament
+B-01;Casagemes;Casa Empar (F-21);Tipus II (amb possibilitats);c/ Sant Bru, 23-25;Noucentisme;XX PM;Pública;Casa d acolliment
+B-01;Dalt de la Vila;Casa Albert Casas (F-24);Tipus II (amb possibilitats);c/ Barcelona, 33;Noucentisme;XX PM;Privada;Habitatge
+B-01;Centre;Grup escolar Ventós Mir (F-14);Tipus II (amb possibilitats);Pge. Ventós i Mir, 29-31;Noucentisme;XX PM;Pública;Ensenyament
+B-01;Centre;Conservatori (F-18);Tipus II (amb possibilitats);c/ Pare Claret, 2;Noucentisme;XX PM;Pública;Ensenyament
+B-01;Centre;Casa mestres Ventós (F-15);Tipus II (amb possibilitats);c/ Anton Romeu, 33-35;Noucentisme;XX PM;Pública;Habitatge
+B-01;Centre;Cases av. Martí Pujol (G-13);Conjunts urbans;Av. Martí Pujol, 32-38;Noucentisme;XX PM;Privada;Habitatge
+B-04;La Salut;Escorxador (F-19);Tipus II (amb possibilitats);Av. Escorxador i c/ Don Pelai;Noucentisme;XX PM;Pública;Usos en projecte
+B-00;Diversa;Font de ferro fos (J-1);Mobiliari urbà;Diverses ubicacions;Funcionalisme;XIX SM;Pública;Fonts
+B-01;Centre;Estació del ferrocarril (F-2);Tipus II (amb possibilitats);Plaça de Roca i Pi;Funcionalisme;XIX SM;Pública;
+B-01;Centre;Mercat Maignon (F-1);Tipus II (amb possibilitats);Arnús/Lleó/Soledat;Funcionalisme;XIX SM;Pública;Mercat
+B-07;Progrés;Anís del Mono;;c/ Eduard Maristany, 115;Funcionalisme;XIX-XX;Privada;
+B-07;Progrés;Mercat Torner (F-16);Tipus II (amb possibilitats);c/ Torner, Providència;Funcionalisme;XX PM;Pública;Mercat
+B-01;Canyadó;Vestidors Piher;;Riera de Canyadó;Racionalisme;XX SM;Pública;Usos en projecte
+B-01;Coll i Pujol;Cases c/ Santa Bàrbara (G-15);Conjunts urbans;Santa Bàrbara, 63-71;Popular;XVIII;Privada;Habitatge
+B-01;Dalt de la Vila;Cases c/ Pujol (G-1);Conjunts urbans;c/ Pujol, 1-31;Popular;XVIII;Privada;Habitatge
+B-01;Casagemes;Cases c/ Iris (G-8);Conjunts urbans;c/ Iris, 2-30;Popular;XIX PM;Privada;Habitatge
+B-01;Dalt de la Vila;Antic Ajuntament (F-25);Tipus II (amb possibilitats);Pl. de la Constitució, 5-6;Popular;XIX PM;Privada;Habitatge
+B-01;Centre;Cases c/ Ciutat de Banyoles (G-7);Conjunts urbans;c/ Ciutat de Banyoles;Popular;XIX PM;Privada;Habitatge
+B-03;Bonavista;Conjunt Can Ferrater (G-4);Conjunts urbans;Riera de Canyet;Popular;XIX PM;Privada;Habitatge
+B-01;Casagemes;Cases c/ Sant Bru (G-14);Conjunts urbans;Sant Bru, 229-259;Popular;XIX SM;Privada;Habitatge
+B-01;Dalt de la Vila;Cases del pou c/ Quintana Alta (G-9);Conjunts urbans;c/ Quintana Alta;Popular;XIX;Privada;Habitatge
+B-01;Dalt de la Vila;Cases c/ Fluvià (G-11);Conjunts urbans;c/ Fluvià;Popular;XIX;Privada;Habitatge
+B-01;Dalt de la Vila;Cases c/ Lladó (G-12);Conjunts urbans;c/ Lladó;Popular;XIX;Privada;Habitatge
+B-03;Canyet;Colònia Sant Jaume (H-6);Conjunts paisatgístics;Canyet;Popular;XX PM;Privada;Habitatge
+B-03;Pomar de Dalt;Conjunt paisatgístic Pomar Dalt (H-5);Conjunts paisatgístics;Pomar de Dalt;Paisatge;XIX-XX;Privada/Pública;Zona rural
+B-03;Canyet;Serrat de les Ermites (H-2);Conjunts paisatgístics;Serrat de les Ermites;Paisatge;XIX-XX;Privada;Zona rural
+B-03;Canyet;Conjunt paisatgístic de Canyet (H-1);Conjunts paisatgístics;Canyet;Paisatge;XIX-XX;Privada/Pública;Zona rural
+B-08;Montigalà;Turó de Montigalà (H-4);Conjunts paisatgístics;Turó de Montigalà;Paisatge;XIX-XX;Privada/Pública;Zona rural
+B-01;Casagemes;Parcs Can Solei i Ca l Arnús (H-3);Conjunts paisatgístics;Parcs de Can Solei i Ca l Arnús;Parc;XIX-XX;Pública;Parc
+B-01;Centre;Passatge del Pont (G-5);Conjunts urbans;c/ Sant Anastasi;Urbà (passatge);XX PM;Pública;Espai urbà
+B-01;Dalt de la Vila;Plaça de Barberà (G-10);Conjunts urbans;Plaça de Barberà;Urbà (plaça);XIX;Pública;Espai urbà
+B-01;Coll i Pujol;Can Rovira (D-4);Masies urbanes;c/ Rector, 40;Masia urb; XVIII;Privada;Habitatge
+B-01;Dalt de la Vila;Masia c/ Sant Sebastià (D-9);Masies urbanes;Sant Sebastià, 46;Masia urb; XVIII;Privada;
+B-08;Montigalà;Ruïnes de Ca l Alemany (C-21);Masies rurals;Camí de Ca l Alemany;Ruïnes;XVIII;Privada;Ruïna
