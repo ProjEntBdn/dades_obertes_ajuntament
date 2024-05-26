@@ -19,7 +19,7 @@ En cap cas, l'autor o els col·laboradors seran responsables davant cap part per
 L'ús dels conjunts de dades proporcionats en aquest repositori és sota el risc de l'usuari, i amb el reconeixement que aquest podria contenir errors. L'usuari assumeix tota la responsabilitat per l'ús de les dades.
 
 ### Mapes d'OpenStreetMap
-Els mapes [d'OpenStreetMap](www.openstreetmap.org) i derivats tenen llicència ODbL.
+Els mapes [d'OpenStreetMap](https://www.openstreetmap.org) i derivats tenen llicència ODbL.
 
 ### Scripts
 Els scripts tenen llicència MIT.
