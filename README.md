@@ -4,6 +4,11 @@
 
 Les dades provenen de la web http://opendata.badalona.cat/od/category/maestro-temas/. Com que fa mesos que no funciona i la llicència ho permet, he decidit publicar-les.
 
+Es poden trobar referències a aquest portal de dades a:
+
+-   https://datos.gob.es/es/iniciativas/open-data-badalona
+-   https://opendatamonitor.eu/frontend/web/index.php?r=datacatalogue%2Fview&id=652 (sembla inactiva).
+
 ## Llicències
 
 ### Dades originals i treballs derivats
@@ -19,9 +24,11 @@ En cap cas, l'autor o els col·laboradors seran responsables davant cap part per
 L'ús dels conjunts de dades proporcionats en aquest repositori és sota el risc de l'usuari, i amb el reconeixement que aquest podria contenir errors. L'usuari assumeix tota la responsabilitat per l'ús de les dades.
 
 ### Mapes d'OpenStreetMap
+
 Els mapes [d'OpenStreetMap](https://www.openstreetmap.org) i derivats tenen llicència ODbL.
 
 ### Scripts
+
 Els scripts tenen llicència MIT.
 
 ## Qualitat de les dades
@@ -37,13 +44,17 @@ Hi ha algunes dades que semblen errònies.
 ## Organització
 
 ### Dades originals
+
 [Dades originals](dades_originals/) conté tots els conjunts de dades que es van publicar, excepte els conjunts de dades d'equipaments, tràmits i de les entitats de Badalona, sense fer cap canvi.
 
 ### Mapes
+
 [Mapes](mapes/) de Badalona.
 
 ### Exemples
+
 [Exemples](exemples/) de com es poden utilitzar aquestes dades.
 
 ### Dades originals anonimitzades
+
 [Dades anonimitzades](dades_anonimitzades/) conté els conjunts de dades d'equipaments, tràmits i de les entitats de Badalona anonimitzats.
